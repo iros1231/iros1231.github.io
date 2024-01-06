@@ -1,7 +1,7 @@
 ---
 name: Muhammad Febrian Rachmadi, Ph.D.
 image: images/members/mfr.jpg
-description: Medical Image and Data Analysi
+description: Medical Image and Data Analysis using AI
 aliases:
   - Febrian
   - Rachmadi
