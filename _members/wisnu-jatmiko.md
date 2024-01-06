@@ -1,7 +1,7 @@
 ---
 name: Prof. Dr. Eng. Wisnu Jatmiko
 image: images/members/wj.jpg
-description: Robotics and Embedded Systems
+description: AI for Robotics and Embedded Systems
 role: head
 aliases:
   - Wisnu J.
