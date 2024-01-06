@@ -11,7 +11,7 @@ pi:
   description: Principal Investigator
 
 postdoc:
-  icon: fa-solid fa-glasses
+  icon: fa-solid fa-chalkboard-user
   description: Postdoctoral Researcher
 
 phd:
@@ -19,11 +19,11 @@ phd:
   description: Doctoral (S3)
   
 master:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-user-graduate
   description: Magister (S2)
 
 undergrad:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-user
   description: Undergrad (S1)
 
 researcher:
@@ -34,6 +34,10 @@ programmer:
   icon: fa-solid fa-code
   description: Programmer
 
+admin:
+  icon: fa-solid fa-book
+  description: Admin
+  
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
@@ -103,7 +107,7 @@ researchgate:
   link: https://www.researchgate.net/profile/$VALUE
 
 scopus:
-  icon: fa-solid fa-s
+  icon: fa-brands fa-connectdevelop
   text: Scopus
   tooltip: Scopus
   link: https://www.scopus.com/authid/detail.uri?authorId=$VALUE
