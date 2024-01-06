@@ -1,4 +1,5 @@
 ---
+title: Team
 nav:
   order: 3
   tooltip: Meet our team members
