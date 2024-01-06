@@ -22,17 +22,17 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include section.html %}
 
 # Fellow Researchers
-{% include portrait.html name="Dr. Ario Yudo Husodo" role="pi" description="AI for Drones (UNRAM)" style="small" %}
-{% include portrait.html name="Dr. Achmad F. Abka" role="pi" description="NLP (BRIN)" style="small" %}
-{% include portrait.html name="Grafika Jati" role="researcher" description="Intelligent Systems and Robotics (Bologna, Italy)" style="small" %}
+{% include portrait.html name="Dr. Ario Yudo Husodo" image="images/members/ario.png" role="pi" description="AI for Drones (UNRAM)" %}
+{% include portrait.html name="Dr. Achmad F. Abka" image="images/members/na-male.png" role="pi" description="NLP (BRIN)" %}
+{% include portrait.html name="Grafika Jati" image="images/members/gj.png" role="researcher" description="Intelligent Systems and Robotics (Bologna, Italy)" %}
 
 {% include section.html %}
 
 # Researchers and Programmers
-{% include portrait.html name="Mgs M Luthfi Ramadhan" role="researcher" description="" style="small" %}
-{% include portrait.html name="Muhammad Ali Akbar" role="researcher" description="" style="small" %}
-{% include portrait.html name="Salsabila Aurellia" role="researcher" description="Biomedical Technology" style="small" %}
-{% include portrait.html name="Syifa Kushirayati" role="programmer" description="Biomedical Technology" style="small" %}
+{% include portrait.html name="Mgs M Luthfi Ramadhan" image="images/members/na-male.png" role="researcher" description="" style="small" %}
+{% include portrait.html name="Muhammad Ali Akbar" image="images/members/na-male.png" role="researcher" description="" style="small" %}
+{% include portrait.html name="Salsabila Aurellia" image="images/members/na-female.png" role="researcher" description="Biomedical Technology" style="small" %}
+{% include portrait.html name="Syifa Kushirayati" image="images/members/na-female.png" role="programmer" description="Biomedical Technology" style="small" %}
 
 {% include list.html data="members" component="portrait" filters="role: researcher" %}
 {% include list.html data="members" component="portrait" filters="role: programmer" %}
@@ -50,6 +50,7 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include section.html %}
 
 # Undergraduate Students
+{% include portrait.html name="Adyatama W.A.N." role="undergrad" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 {% include section.html %}
