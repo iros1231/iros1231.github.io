@@ -91,7 +91,7 @@ orcid:
   link: https://orcid.org/$VALUE
 
 google-scholar:
-  icon: fa-brands fa-google-scholar
+  icon: fa-brands fa-google
   text: Google Scholar
   tooltip: Google Scholar
   link: https://scholar.google.com/citations?user=$VALUE
