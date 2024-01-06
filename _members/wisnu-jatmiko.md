@@ -1,11 +1,12 @@
 ---
 name: Prof. Dr. Eng. Wisnu Jatmiko
-image: images/photo.jpg
+image: images/members/wj.jpg
 description: Head of Lab
 role: pi
 aliases:
   - Wisnu J.
   - Wisnu J
+  - Wisnu
 links:
   home-page: https://cs.ui.ac.id/personnel/wisnu-jatmiko/
   orcid: 0000-0002-0530-7955
