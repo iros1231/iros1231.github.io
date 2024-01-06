@@ -100,17 +100,17 @@ google-scholar:
   tooltip: Google Scholar
   link: https://scholar.google.com/citations?user=$VALUE
 
+scopus-new:
+  icon: fa-solid fa-s
+  text: Scopus
+  tooltip: Scopus
+  link: https://www.scopus.com/authid/detail.uri?authorId=$VALUE
+  
 researchgate:
   icon: fa-brands fa-researchgate
   text: ResearchGate
   tooltip: ResearchGate
   link: https://www.researchgate.net/profile/$VALUE
-
-scopus:
-  icon: fa-solid fa-s
-  text: Scopus
-  tooltip: Scopus
-  link: https://scholar.google.com/citations?user=$VALUE
   
 github:
   icon: fa-brands fa-github
