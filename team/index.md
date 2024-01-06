@@ -15,18 +15,15 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html %}
 -->
 
-## {% include section.html background="images/background.jpg" dark=true %} Head of Lab
-{% include section.html %}
-
+## Head of Lab
 {% include list.html data="members" component="portrait" filters="role: head" %}
 
-## {% include section.html background="images/background.jpg" dark=true %} Principal Investigators
-{% include section.html %}
-
+## Principal Investigators
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
 <!--
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include section.html background="images/background.jpg" dark=true %} 
 -->
 
 {% include section.html background="images/background.jpg" dark=true %}
