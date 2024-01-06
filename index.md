@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/network.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -49,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/network.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -63,7 +63,6 @@ Our team members are actively developing artificial intelligent systems for vari
 
 {%
   include button.html
-  image="images/members/alumni-gathering.jpg"
   link="team"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
@@ -75,7 +74,7 @@ Our team members are actively developing artificial intelligent systems for vari
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/members/alumni-gathering.jpg"
   link="team"
   title="Our Team"
   text=text
