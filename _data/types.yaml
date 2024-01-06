@@ -2,6 +2,10 @@
 
 # team member roles
 
+head:
+  icon: fa-solid fa-glasses
+  description: Head of Lab
+  
 pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
@@ -13,6 +17,10 @@ postdoc:
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
+  
+master:
+  icon: fa-solid fa-graduation-cap
+  description: MSc Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
