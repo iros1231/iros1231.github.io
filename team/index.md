@@ -1,4 +1,4 @@
----
+![image](https://github.com/iros1231/iros1231.github.io/assets/155800242/29254949-403e-49e4-b7a3-2bc70b61d1c8)---
 title: Team
 nav:
   order: 3
@@ -22,8 +22,9 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include section.html %}
 
 # Fellow Researchers
-{% include portrait.html name="Dr. Ario Yudo Husodo" role="pi" description="AI for Drones" style="small" %}
-{% include portrait.html name="Grafika Jati" role="researcher" description="Intelligent Systems and Robotics" style="small" %}
+{% include portrait.html name="Dr. Ario Yudo Husodo" role="pi" description="AI for Drones (UNRAM)" style="small" %}
+{% include portrait.html name="Dr. Achmad F. Abka" role="pi" description="NLP (BRIN)" style="small" %}
+{% include portrait.html name="Grafika Jati" role="researcher" description="Intelligent Systems and Robotics (Bologna, Italy)" style="small" %}
 
 {% include section.html %}
 
