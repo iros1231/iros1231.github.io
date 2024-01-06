@@ -17,6 +17,14 @@ Our team members are actively developing artificial intelligent systems for vari
 ## Principal Investigators
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
+## Researchers and Programmers
+
+## Graduate Students (Doctoral)
+
+## Graduate Students (Magister)
+
+## Undergraduate Students
+
 <!--
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 {% include section.html background="images/background.jpg" dark=true %} 
