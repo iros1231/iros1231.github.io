@@ -15,6 +15,12 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
+{% include list.html data="members" component="portrait" filters="role: head" %}
+
+{% include section.html background="images/background.jpg" dark=true %}
+
+All our principal investigators.
+
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
 <!--
