@@ -18,23 +18,32 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
 ## Researchers and Programmers
+{% include list.html data="members" component="portrait" filters="role: researcher" %}
+{% include list.html data="members" component="portrait" filters="role: programmer" %}
 
 ## Graduate Students (Doctoral)
+{% include list.html data="members" component="portrait" filters="role: phd" %}
 
 ## Graduate Students (Magister)
+{% include list.html data="members" component="portrait" filters="role: master" %}
 
 ## Undergraduate Students
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 <!--
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 {% include section.html background="images/background.jpg" dark=true %} 
+-->
 
+<!--
 {% include section.html background="images/background.jpg" dark=true %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
 nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-->
 
+<!--
 {% include section.html %}
 
 {% capture content %}
@@ -44,6 +53,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include figure.html image="images/photo.jpg" %}
 
 {% endcapture %}
+-->
 
 {% include grid.html style="square" content=content %}
--->
