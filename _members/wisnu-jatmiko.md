@@ -11,7 +11,7 @@ links:
   home-page: https://cs.ui.ac.id/personnel/wisnu-jatmiko/
   email: wisnuj@cs.ui.ac.id
   google-scholar: INnE42kAAAAJ
-  scopus: 8568432600
+  scopus-new: 8568432600
   orcid: 0000-0002-0530-7955
 ---
 
