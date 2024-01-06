@@ -1,7 +1,10 @@
 ---
 name: Muhammad Febrian Rachmadi, Ph.D.
 image: images/members/mfr.jpg
-description: Medical Image and Data Analysis
+description: Medical Image and Data Analysi
+aliases:
+  - Febrian
+  - Rachmadi
 role: pi
 links:
   email: febrianrachmadi@cs.ui.ac.id
