@@ -7,12 +7,12 @@ footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@iros1231.com
+  # email: contact@iros1231.com
   orcid: 0000-0002-0530-7955
   google-scholar: INnE42kAAAAJ
   github: iros1231
-  twitter: iros1231
-  youtube: LabTV-wk8hk
+  # twitter: iros1231
+  youtube: @LabTV-wk8hk
 
 ### jekyll settings
 
