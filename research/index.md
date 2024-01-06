@@ -13,10 +13,10 @@ Compilation of all our members' published works.
 
 ## Highlighted
 
-{% include citation.html lookup="10.1109/ACCESS.2022.3141200" style="rich" %}
-{% include citation.html lookup="10.1186/s40537-020-00374-x" style="rich" %}
-{% include citation.html lookup="10.1109/ACCESS.2020.2969021" style="rich" %}
-{% include citation.html lookup="10.1016/j.media.2020.101712" style="rich" %}
+{% include citation.html lookup="Transfer learning, style control, and speaker reconstruction loss" style="rich" %}
+{% include citation.html lookup="Automatic LIDAR building segmentation based on DGCNN and euclidean clustering" style="rich" %}
+{% include citation.html lookup="Enhanced social spider optimization algorithm" style="rich" %}
+{% include citation.html lookup="Automatic spatial estimation of white matter hyperintensities evolution" style="rich" %}
 
 {% include section.html %}
 
@@ -26,7 +26,4 @@ Compilation of all our members' published works.
 
 {% include search-info.html %}
 
-{% capture content %}
 {% include list.html data="citations" component="citation" %}
-{% endcapture %}
-{% include grid.html content=content %}
