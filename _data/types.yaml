@@ -91,11 +91,23 @@ orcid:
   link: https://orcid.org/$VALUE
 
 google-scholar:
-  icon: fa-brands fa-google
+  icon: fa-brands fa-google-scholar
   text: Google Scholar
   tooltip: Google Scholar
   link: https://scholar.google.com/citations?user=$VALUE
 
+researchgate:
+  icon: fa-brands fa-researchgate
+  text: ResearchGate
+  tooltip: ResearchGate
+  link: https://www.researchgate.net/profile/$VALUE
+
+scopus:
+  icon: fa-solid fa-s
+  text: Scopus
+  tooltip: Scopus
+  link: https://www.scopus.com/authid/detail.uri?authorId=$VALUE
+  
 github:
   icon: fa-brands fa-github
   text: GitHub
