@@ -1,9 +1,9 @@
 ---
 ---
 
-# iros1231's Website
+# Welcome to the Intelligent Robots and Systems (IRoS) Lab of the Faculty of Computer Science, Universitas Indonesia 
 
-An engaging 1-3 sentence description of your lab.
+Lab IRoS ini berfokus pada penelitian yang berkaitan dengan pengembangan sistem robotik cerdas. Area kajiannya mencakup sistem sensor multimodal, model-model representasi data dan analitika untuk pengembilan keputusan pada sistem robotika, serta sistem aktuator robotika dinamis.
 
 {% include section.html %}
 
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team members are actively developing artificial intelligent systems for various purposes, especially robots, drones, embedded systems, computer vision, medicine, etc. Here are our key members of our lab.
 
 {%
   include button.html

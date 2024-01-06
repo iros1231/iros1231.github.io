@@ -1,8 +1,8 @@
 ---
 name: Prof. Dr. Eng. Wisnu Jatmiko
 image: images/members/wj.jpg
-description: Head of Lab
-role: pi
+description: AI for Robotics and Embedded Systems
+role: head
 aliases:
   - Wisnu J.
   - Wisnu J

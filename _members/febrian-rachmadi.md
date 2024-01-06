@@ -1,7 +1,7 @@
 ---
 name: Muhammad Febrian Rachmadi, Ph.D.
 image: images/members/mfr.jpg
-description: Deputy Lab
+description: Medical Image and Data Analysis
 role: pi
 links:
   email: febrianrachmadi@cs.ui.ac.id
