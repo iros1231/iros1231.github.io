@@ -11,7 +11,7 @@ Lab IRoS ini berfokus pada penelitian yang berkaitan dengan pengembangan sistem 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+See the compilation of all our members’ published works.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+IRoS lab focuses on developing intellligent systems for robotics, biomedicine, and life/social sciences. See our past and current research projects.
 
 {%
   include button.html
