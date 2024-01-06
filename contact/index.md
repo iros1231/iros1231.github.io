@@ -12,8 +12,8 @@ Our lab is located at Lab/Room 1231, Gedung/Building A, Fakultas Ilmu Komputer, 
 {%
   include button.html
   type="email"
-  text="wisnuj@cs.ui.ac.id"
-  link="wisnuj@cs.ui.ac.id"
+  text="roboticlab1231@gmail.com"
+  link="roboticlab1231@gmail.com"
 %}
 <!---
 {%
