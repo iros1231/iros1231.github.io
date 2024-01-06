@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 1
   tooltip: Published works
@@ -7,14 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Compilation of all our members' published works.
 
 {% include section.html %}
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="10.1109/ACCESS.2022.3141200" style="rich" %}
+{% include citation.html lookup="10.1186/s40537-020-00374-x" style="rich" %}
+{% include citation.html lookup="10.1109/ACCESS.2020.2969021" style="rich" %}
+{% include citation.html lookup="10.1016/j.media.2020.101712" style="rich" %}
 
 {% include section.html %}
 
@@ -24,4 +26,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% capture content %}
+{% include list.html data="citations" component="citation" %}
+{% endcapture %}
+{% include grid.html content=content %}
