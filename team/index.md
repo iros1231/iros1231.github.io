@@ -9,25 +9,23 @@ nav:
 
 Our team members are actively developing artificial intelligent systems for various purposes, especially robots, drones, embedded systems, medicine, etc. Here are our key members of our lab.
 
-{% include section.html %}
-
-## Head of Lab
+# Head of Lab
 {% include list.html data="members" component="portrait" filters="role: head" %}
 
-## Principal Investigators
+# Principal Investigators
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
-## Researchers and Programmers
+# Researchers and Programmers
 {% include list.html data="members" component="portrait" filters="role: researcher" %}
 {% include list.html data="members" component="portrait" filters="role: programmer" %}
 
-## Graduate Students (Doctoral)
+# Graduate Students (Doctoral)
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 
-## Graduate Students (Magister)
+# Graduate Students (Magister)
 {% include list.html data="members" component="portrait" filters="role: master" %}
 
-## Undergraduate Students
+# Undergraduate Students
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 <!--
