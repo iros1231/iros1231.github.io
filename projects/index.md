@@ -1,27 +1,32 @@
 ---
-title: Projects
+title: Research
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: Research projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+IRoS lab focuses on developing intellligent systems for robotics, biomedicine, and life/social sciences.
 
-{% include tags.html tags="publication, resource, website" %}
+<!-- {% include tags.html tags="publication, resource, website" %} -->
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-## Featured
+## IS for Robotics (IS4Robot)
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
-## More
+## IS for Biomedicine (IS4Biomed)
+
+{% include list.html component="card" data="projects" filters="group: " style="small" %}
+
+{% include section.html %}
+
+## IS for Life and Social Sciences (IS4LSS)
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
