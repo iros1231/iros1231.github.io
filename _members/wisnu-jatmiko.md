@@ -1,7 +1,8 @@
 ---
 name: Prof. Dr. Eng. Wisnu Jatmiko
 image: images/photo.jpg
-role: Head of Lab
+description: Head of Lab
+role: pi
 aliases:
   - Wisnu J.
   - Wisnu J
