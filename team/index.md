@@ -1,5 +1,4 @@
-![image](https://github.com/iros1231/iros1231.github.io/assets/155800242/29254949-403e-49e4-b7a3-2bc70b61d1c8)---
-title: Team
+---
 nav:
   order: 3
   tooltip: Meet our team members
