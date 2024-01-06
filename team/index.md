@@ -42,7 +42,7 @@ Our team members are actively developing artificial intelligent systems for vari
 # Graduate Students
 {% include portrait.html name="Indra Hermawan" image="images/members/na-male.png" role="phd" description="AI for ECG" style="small" %}
 {% include portrait.html name="dr. Reyhan Adi Yunus" image="images/members/na-male.png" role="phd" description="Physician (AI for Radiology)" style="small" %}
-{% include portrait.html name="dr. Alida" image="images/members/na-male.png" role="phd" description="Physician" style="small" %}
+{% include portrait.html name="dr. Alida" image="images/members/na-female.png" role="phd" description="Physician" style="small" %}
 
 {% include portrait.html name="Yohanes F. Hestrio" image="images/members/na-male.png" role="master" description="Computer Vision for Drones" style="small" %}
 {% include portrait.html name="Hannan Hunafa" image="images/members/na-male.png" role="master" description="Computer Vision for Drones" style="small" %}
@@ -53,7 +53,7 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include portrait.html name="Dedy" image="images/members/na-male.png" role="master" description="" style="small" %}
 {% include portrait.html name="Eka" image="images/members/na-male.png" role="master" description="" style="small" %}
 {% include portrait.html name="dr. Moses" image="images/members/na-male.png" role="master" description="Physician" style="small" %}
-{% include portrait.html name="dr. Amanda" image="images/members/na-male.png" role="master" description="Physician" style="small" %}
+{% include portrait.html name="dr. Amanda" image="images/members/na-female.png" role="master" description="Physician" style="small" %}
 
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: master" %}
