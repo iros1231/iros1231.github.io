@@ -1,7 +1,7 @@
 ---
 name: Dr. Kurniawati Azizah
 image: images/members/titi.jpg
-description: Principal Investigator
+description: Natural Language Processing
 role: pi
 links:
   email: kurniawati.azizah@cs.ui.ac.id
