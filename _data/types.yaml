@@ -26,6 +26,10 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+researcher:
+  icon: fa-solid fa-microscope
+  description: Researcher
+  
 programmer:
   icon: fa-solid fa-code
   description: Programmer
