@@ -24,7 +24,7 @@ master:
 
 undergrad:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate (S1)
+  description: Undergrad (S1)
 
 researcher:
   icon: fa-solid fa-microscope
