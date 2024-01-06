@@ -22,6 +22,11 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include section.html %}
 
 # Researchers and Programmers
+{% include portrait.html name="Mgs M Luthfi Ramadhan" description="Researchers" style="small" %}
+{% include portrait.html name="Muhammad Ali Akbar" description="Researchers" style="small" %}
+{% include portrait.html name="Salsabila Aurellia" description="Researchers (Biomedical Technology)" style="small" %}
+{% include portrait.html name="Syifa Kushirayati" description="Programmers (Biomedical Technology)" style="small" %}
+
 {% include list.html data="members" component="portrait" filters="role: researcher" %}
 {% include list.html data="members" component="portrait" filters="role: programmer" %}
 
