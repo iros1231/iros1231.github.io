@@ -26,9 +26,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/network.jpg"
+  image="images/publication.jpg"
   link="research"
-  title="Our Research"
+  title="Our Publications"
   text=text
 %}
 
@@ -39,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse our research projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/network.jpg"
+  image="images/project.jpg"
   link="projects"
-  title="Our Projects"
+  title="Our Research Projects"
   flip=true
   style="bare"
   text=text
