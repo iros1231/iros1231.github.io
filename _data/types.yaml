@@ -27,11 +27,11 @@ undergrad:
   description: Undergrad (S1)
 
 researcher:
-  icon: fa-solid fa-microscope
+  icon: fa-solid fa-magnifying-glass-chart
   description: Researcher
   
 programmer:
-  icon: fa-solid fa-code
+  icon: fa-solid fa-laptop-code
   description: Programmer
 
 admin:
