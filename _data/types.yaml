@@ -16,15 +16,15 @@ postdoc:
 
 phd:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Doctoral (S3)
   
 master:
   icon: fa-solid fa-graduation-cap
-  description: MSc Student
+  description: Magister (S2)
 
 undergrad:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Undergraduate (S1)
 
 researcher:
   icon: fa-solid fa-microscope
