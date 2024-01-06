@@ -11,6 +11,7 @@ links:
   website: https://febrianrachmadi.github.io/
   google-scholar: ZFo5fiwAAAAJ
   scopus: 54974181500
+  researchgate: Muhammad-Rachmadi
   orcid: 0000-0003-1672-9149
   linkedin: febrianrachmadi
   youtube: febrianrachmadi
