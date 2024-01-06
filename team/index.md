@@ -15,6 +15,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html %}
 -->
 
+{% include section.html %}
+
 ## Head of Lab
 {% include list.html data="members" component="portrait" filters="role: head" %}
 
@@ -24,7 +26,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 <!--
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 {% include section.html background="images/background.jpg" dark=true %} 
--->
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -34,7 +35,6 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-<!--
 {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
