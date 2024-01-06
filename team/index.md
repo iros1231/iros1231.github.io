@@ -16,10 +16,12 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include section.html %}
 
 ## {% include section.html background="images/background.jpg" dark=true %} Head of Lab
+{% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: head" %}
 
 ## {% include section.html background="images/background.jpg" dark=true %} Principal Investigators
+{% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
@@ -35,6 +37,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
+<!--
 {% capture content %}
 
 {% include figure.html image="images/photo.jpg" %}
@@ -44,3 +47,4 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+-->
