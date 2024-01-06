@@ -107,10 +107,10 @@ researchgate:
   link: https://www.researchgate.net/profile/$VALUE
 
 scopus:
-  icon: fa-brands fa-connectdevelop
+  icon: fa-solid fa-s
   text: Scopus
   tooltip: Scopus
-  link: https://www.scopus.com/authid/detail.uri?authorId=$VALUE
+  link: https://scholar.google.com/citations?user=$VALUE
   
 github:
   icon: fa-brands fa-github
