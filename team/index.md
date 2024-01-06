@@ -21,11 +21,17 @@ Our team members are actively developing artificial intelligent systems for vari
 
 {% include section.html %}
 
+# Fellow Researchers
+{% include portrait.html name="Dr. Ario Yudo Husodo" role="pi" description="AI for Drones" style="small" %}
+{% include portrait.html name="Grafika Jati" role="researcher" description="Intelligent Systems and Robotics" style="small" %}
+
+{% include section.html %}
+
 # Researchers and Programmers
-{% include portrait.html name="Mgs M Luthfi Ramadhan" description="Researchers" style="small" %}
-{% include portrait.html name="Muhammad Ali Akbar" description="Researchers" style="small" %}
-{% include portrait.html name="Salsabila Aurellia" description="Researchers (Biomedical Technology)" style="small" %}
-{% include portrait.html name="Syifa Kushirayati" description="Programmers (Biomedical Technology)" style="small" %}
+{% include portrait.html name="Mgs M Luthfi Ramadhan" role="researcher" description="" style="small" %}
+{% include portrait.html name="Muhammad Ali Akbar" role="researcher" description="" style="small" %}
+{% include portrait.html name="Salsabila Aurellia" role="researcher" description="Biomedical Technology" style="small" %}
+{% include portrait.html name="Syifa Kushirayati" role="programmer" description="Biomedical Technology" style="small" %}
 
 {% include list.html data="members" component="portrait" filters="role: researcher" %}
 {% include list.html data="members" component="portrait" filters="role: programmer" %}
