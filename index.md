@@ -64,7 +64,7 @@ Our team members are actively developing artificial intelligent systems for vari
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Meet our team members"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -76,6 +76,6 @@ Our team members are actively developing artificial intelligent systems for vari
   include feature.html
   image="images/members/alumni-gathering.jpg"
   link="team"
-  title="Our Team"
+  title="Our Team Members"
   text=text
 %}
