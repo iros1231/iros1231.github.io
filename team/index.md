@@ -66,4 +66,6 @@ Our team members are actively developing artificial intelligent systems for vari
 
 {% include section.html %}
 
-{% include site-search.html %}
+# Alumni
+
+To be listed.
