@@ -29,3 +29,12 @@ Our lab is located at Lab/Room 1231, Gedung/Building A, Fakultas Ilmu Komputer, 
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps/dir//fasilkom+ui/@-6.363975,106.8277362,18z/data=!4m9!4m8!1m1!4e2!1m5!1m1!1s0x2e69ec1ad14fb6cf:0xc94e4d829420fa15!2m2!1d106.8286886!2d-6.3646009?hl=en"
 %}
+
+{% 
+  include button.html 
+  type="youtube" 
+  icon="fa-brands fa-youtube" 
+  text="YouTube" 
+  tooltip="Our lab's YouTube channel" 
+  link="https://www.youtube.com/@LabTV-wk8hk"
+%}
