@@ -36,5 +36,5 @@ Our lab is located at Lab/Room 1231, Gedung/Building A, Fakultas Ilmu Komputer, 
   icon="fa-brands fa-youtube" 
   text="YouTube" 
   tooltip="Our lab's YouTube channel" 
-  link="https://www.youtube.com/@LabTV-wk8hk"
+  link="LabTV-wk8hk"
 %}
