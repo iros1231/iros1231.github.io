@@ -9,8 +9,7 @@ Lab IRoS ini berfokus pada penelitian yang berkaitan dengan pengembangan sistem 
 
 ## News Update 
 
-{% capture content %}**01/JAN/2024** {{ Our new website is now online! }}{% endcapture %}
-{% include alert.html type="success" content=content %}
+{% include alert.html type="success" content="**01/JAN/2024** Our new website is now online!" %}
 
 ## Highlights
 
