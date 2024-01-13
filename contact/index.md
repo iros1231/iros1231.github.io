@@ -38,3 +38,19 @@ Our lab is located at Lab/Room 1231, Gedung/Building A, Fakultas Ilmu Komputer, 
   tooltip="Our lab's YouTube channel" 
   link="LabTV-wk8hk"
 %}
+
+{% 
+  include button.html 
+  type="website" 
+  text="AI.WIKO.PW" 
+  tooltip="Our workshop series" 
+  link="https://ai.wiko.pw/"
+%}
+
+{% 
+  include button.html 
+  type="website" 
+  text="CS.UI" 
+  tooltip="Faculty of Computer Science, Universitas Indonesia" 
+  link="https://cs.ui.ac.id/"
+%}
