@@ -1,15 +1,29 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1109/ACCESS.2023.3292531
-  title: Change Detection of High-Resolution Remote Sensing Images Through Adaptive
-    Focal Modulation on Hierarchical Feature Maps
+- id: doi:10.33546/bnj.3064
+  title: 'Gender role conflicts experienced by Indonesian women with gynecological
+    cancer: A phenomenological study'
   authors:
-  - Lhuqita Fazry
+  - Atun Raudotul Ma'rifah
+  - Yati Afiyanti
+  - Wisnu Djatmiko
+  - Ida Ruwaida
+  - Ariesta Milanti
+  publisher: Belitung Nursing Journal
+  date: '2024-02-28'
+  link: https://doi.org/gtkh9w
+  orcid: 0000-0002-0530-7955
+  plugin: orcid.py
+  file: orcid-wj.yaml
+- id: doi:10.1109/ACCESS.2024.3361287
+  title: Building Damage Assessment Using Feature Concatenated Siamese Neural Network
+  authors:
   - Mgs M. Luthfi Ramadhan
+  - Grafika Jati
   - Wisnu Jatmiko
   publisher: IEEE Access
-  date: '2023-01-01'
-  link: https://doi.org/gtchs4
+  date: '2024-01-01'
+  link: https://doi.org/gtgw74
   orcid: 0000-0002-0530-7955
   plugin: orcid.py
   file: orcid-wj.yaml
@@ -23,6 +37,19 @@
   publisher: IEEE Access
   date: '2022-01-01'
   link: https://doi.org/gtchs5
+  orcid: 0000-0002-0530-7955
+  plugin: orcid.py
+  file: orcid-wj.yaml
+- id: doi:10.1109/ACCESS.2023.3292531
+  title: Change Detection of High-Resolution Remote Sensing Images Through Adaptive
+    Focal Modulation on Hierarchical Feature Maps
+  authors:
+  - Lhuqita Fazry
+  - Mgs M. Luthfi Ramadhan
+  - Wisnu Jatmiko
+  publisher: IEEE Access
+  date: '2023-01-01'
+  link: https://doi.org/gtchs4
   orcid: 0000-0002-0530-7955
   plugin: orcid.py
   file: orcid-wj.yaml
