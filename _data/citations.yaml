@@ -2596,6 +2596,18 @@
   orcid: 0000-0002-0530-7955
   plugin: orcid.py
   file: orcid-wj.yaml
+- id: doi:10.1117/12.380590
+  title: Fuzzy learning vector quantization neural network and its application for
+    artificial odor recognition system
+  authors:
+  - Benyamin Kusumoputro
+  - Hary Budiarto
+  - Wisnu Jatmiko
+  publisher: SPIE Proceedings
+  date: ''
+  link: https://doi.org/bsst4z
+  plugin: sources.py
+  file: sources-override.yaml
 - id: doi:10.1186/s40537-020-00374-x
   title: Automatic LIDAR building segmentation based on DGCNN and euclidean clustering
   authors:
@@ -2634,15 +2646,3 @@
   - drones
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1117/12.380590
-  title: Fuzzy learning vector quantization neural network and its application for
-    artificial odor recognition system
-  authors:
-  - Benyamin Kusumoputro
-  - Hary Budiarto
-  - Wisnu Jatmiko
-  publisher: SPIE Proceedings
-  date: ''
-  link: https://doi.org/bsst4z
-  plugin: sources.py
-  file: sources-override.yaml
