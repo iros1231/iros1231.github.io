@@ -55,7 +55,7 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include portrait.html name="Anas Bayu Kusuma" image="images/members/na-male.png" role="master" description="Multi-agents Reinforcement Learning" style="small" %}
 {% include portrait.html name="Aldi Tjendana" image="images/members/na-male.png" role="master" description="Biomedical" style="small" %}
 {% include portrait.html name="Fabian Omarri Putra" image="images/members/na-male.png" role="master" description="Biomedical" style="small" %}
-{% include portrait.html name="Yohanes F. Hestrio" image="images/members/na-male.png" role="master" description="Computer Vision for Drones" style="small" %}
+{% include portrait.html name="Yohanes F. Hestrio" image="images/members/bj.jpg" role="master" description="Computer Vision for Drones" style="small" %}
 {% include portrait.html name="Muhammad Hannan Hunafa" image="images/members/na-male.png" role="master" description="Computer Vision" style="small" %}
 {% include portrait.html name="Sita Purnama Dewi" image="images/members/na-female.png" role="master" description="NLP for Medicine" style="small" %}
 {% include portrait.html name="Yusdi Ari Pralambang" image="images/members/na-male.png" role="master" description="Medical Image Analysis" style="small" %}
