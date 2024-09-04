@@ -41,32 +41,45 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include section.html %}
 
 # Graduate Students
-{% include portrait.html name="Indra Hermawan" image="images/members/na-male.png" role="phd" description="AI for ECG" style="small" %}
+{% include portrait.html name="Yogiek Indra Kurniawan" image="images/members/na-male.png" role="phd" description="AI for Biomedical" style="small" %}
 {% include portrait.html name="dr. Reyhan Adi Yunus" image="images/members/na-male.png" role="phd" description="Physician (AI for Radiology)" style="small" %}
 {% include portrait.html name="dr. Alida" image="images/members/na-female.png" role="phd" description="Physician" style="small" %}
+{% include portrait.html name="dr. Sari" image="images/members/na-female.png" role="phd" description="Physician" style="small" %}
+{% include portrait.html name="dr. Ivana" image="images/members/na-female.png" role="phd" description="Physician" style="small" %}
 
+{% include portrait.html name="Maulana Kholis Fadhlillah" image="images/members/na-male.png" role="master" description="AI for Biomedical" style="small" %}
+{% include portrait.html name="Auliati Nisa" image="images/members/na-female.png" role="master" description="AI for Face Recognition" style="small" %}
+{% include portrait.html name="Qurrota Ayun Majid" image="images/members/na-female.png" role="master" description="Intelligent Traffic Systems" style="small" %}
+{% include portrait.html name="Alina Dhifan Ajriya" image="images/members/na-female.png" role="master" description="Visual Question Answering" style="small" %}
+{% include portrait.html name="dr. Pani" image="images/members/na-female.png" role="master" description="Gamification" style="small" %}
+{% include portrait.html name="Anas Bayu Kusuma" image="images/members/na-male.png" role="master" description="Multi-agents Reinforcement Learning" style="small" %}
+{% include portrait.html name="Aldi Tjendana" image="images/members/na-male.png" role="master" description="Biomedical" style="small" %}
+{% include portrait.html name="Fabian Omarri Putra" image="images/members/na-male.png" role="master" description="Biomedical" style="small" %}
 {% include portrait.html name="Yohanes F. Hestrio" image="images/members/na-male.png" role="master" description="Computer Vision for Drones" style="small" %}
 {% include portrait.html name="Hannan Hunafa" image="images/members/na-male.png" role="master" description="Computer Vision for Drones" style="small" %}
 {% include portrait.html name="Sita" image="images/members/na-female.png" role="master" description="NLP for Medicine" style="small" %}
-{% include portrait.html name="Alya" image="images/members/na-female.png" role="master" description="Computer Vision for Drones" style="small" %}
 {% include portrait.html name="Lambang" image="images/members/na-male.png" role="master" description="Medical Image Analysis" style="small" %}
 {% include portrait.html name="Ilham" image="images/members/na-male.png" role="master" description="" style="small" %}
 {% include portrait.html name="Dedy" image="images/members/na-male.png" role="master" description="" style="small" %}
-{% include portrait.html name="Eka" image="images/members/na-male.png" role="master" description="" style="small" %}
-{% include portrait.html name="dr. Moses" image="images/members/na-male.png" role="master" description="Physician" style="small" %}
-{% include portrait.html name="dr. Amanda" image="images/members/na-female.png" role="master" description="Physician" style="small" %}
-
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: master" %}
 
 {% include section.html %}
 
 # Undergraduate Students
-{% include portrait.html name="Adyatama W.A.N." image="images/members/na-male.png" role="undergrad" style="small" %}
+{% include portrait.html name="Adyatama W.A.Nugraha Yudha" image="images/members/na-male.png" role="undergrad" style="small" %}
+{% include portrait.html name="Ibni Shaquille" image="images/members/na-male.png" role="undergrad" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 {% include section.html %}
 
 # Alumni
+{% include portrait.html name="Indra Hermawan" image="images/members/na-male.png" role="phd" description="AI for ECG" style="small" %}
 
-To be listed.
+{% include portrait.html name="Alya" image="images/members/na-female.png" role="master" description="Computer Vision for Drones" style="small" %}
+
+{% include portrait.html name="Eka" image="images/members/na-male.png" role="master" description="" style="small" %}
+{% include portrait.html name="dr. Moses" image="images/members/na-male.png" role="master" description="Physician" style="small" %}
+{% include portrait.html name="dr. Amanda" image="images/members/na-female.png" role="master" description="Physician" style="small" %}
+
+And More To be listed.
