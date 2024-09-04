@@ -29,7 +29,7 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include section.html %}
 
 # Researchers and Programmers
-{% include portrait.html name="Mgs M Luthfi Ramadhan" image="images/members/na-male.png" role="researcher" description="Machine Learning" style="small" %}
+{% include portrait.html name="Mgs M Luthfi Ramadhan" image="images/members/patrick.jfif" role="researcher" description="Machine Learning" style="small" %}
 {% include portrait.html name="Muhammad Ali Akbar" image="images/members/na-male.png" role="researcher" description="" style="small" %}
 {% include portrait.html name="Alif Wicaksana Ramadhan" image="images/members/aw.jpeg" role="researcher" description="" style="small" %}
 {% include portrait.html name="Salsabila Aurellia" image="images/members/sa.jpg" role="researcher" description="Biomedical Technology" style="small" %}
@@ -56,11 +56,11 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include portrait.html name="Aldi Tjendana" image="images/members/na-male.png" role="master" description="Biomedical" style="small" %}
 {% include portrait.html name="Fabian Omarri Putra" image="images/members/na-male.png" role="master" description="Biomedical" style="small" %}
 {% include portrait.html name="Yohanes F. Hestrio" image="images/members/na-male.png" role="master" description="Computer Vision for Drones" style="small" %}
-{% include portrait.html name="Hannan Hunafa" image="images/members/na-male.png" role="master" description="Computer Vision for Drones" style="small" %}
-{% include portrait.html name="Sita" image="images/members/na-female.png" role="master" description="NLP for Medicine" style="small" %}
-{% include portrait.html name="Lambang" image="images/members/na-male.png" role="master" description="Medical Image Analysis" style="small" %}
-{% include portrait.html name="Ilham" image="images/members/na-male.png" role="master" description="" style="small" %}
-{% include portrait.html name="Dedy" image="images/members/na-male.png" role="master" description="" style="small" %}
+{% include portrait.html name="Muhammad Hannan Hunafa" image="images/members/na-male.png" role="master" description="Computer Vision" style="small" %}
+{% include portrait.html name="Sita Purnama Dewi" image="images/members/na-female.png" role="master" description="NLP for Medicine" style="small" %}
+{% include portrait.html name="Yusdi Ari Pralambang" image="images/members/na-male.png" role="master" description="Medical Image Analysis" style="small" %}
+{% include portrait.html name="Ilham Akbar" image="images/members/na-male.png" role="master" description="" style="small" %}
+{% include portrait.html name="Dedy Van Hauten" image="images/members/na-male.png" role="master" description="" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: master" %}
 
