@@ -1,478 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.compbiomed.2024.108414
-  title: A new family of instance-level loss functions for improving instance-level
-    segmentation and detection of white matter hyperintensities in routine clinical
-    brain MRI
-  authors:
-  - Muhammad Febrian Rachmadi
-  - Michal Byra
-  - Henrik Skibbe
-  publisher: Computers in Biology and Medicine
-  date: '2024-05-01'
-  link: https://doi.org/gtqx7j
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.36227/techrxiv.171328773.30330280/v1
-  title: Automated Detection of Craniomaxillofacial Fractures From 3D CT Images Using
-    Ensemble Deep Learning-Based Segmentation Models
-  authors:
-  - Muhammad Febrian Rachmadi
-  - Prasetyanugraheni Kreshanti
-  - Margareth Ingrid Anggraeni
-  - Vika Tania
-  - Reyhan Eddy Yunus
-  - Henrik Skibbe
-  publisher: Institute of Electrical and Electronics Engineers (IEEE)
-  date: '2024-04-16'
-  link: https://doi.org/gtrmdt
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: ':'
-  title: Adaptive Traffic Light Control System Using Camera Sensor and Embedded System
-  publisher: 2011 International Symposium on Micro-NanoMechatronics and Human Science
-  date: '2024-08-12'
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1038/s41597-023-02048-8
-  title: A dataset of rodent cerebrovasculature from in vivo multiphoton fluorescence
-    microscopy imaging
-  authors:
-  - Charissa Poon
-  - Petteri Teikari
-  - Muhammad Febrian Rachmadi
-  - Henrik Skibbe
-  - Kullervo Hynynen
-  publisher: Scientific Data
-  date: '2023-03-17'
-  link: https://doi.org/gtchxq
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1101/2022.12.14.520239
-  title: Prediction of white matter hyperintensities evolution one-year post-stroke
-    from a single-point brain MRI and stroke lesions information
-  authors:
-  - Muhammad Febrian Rachmadi
-  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
-  - Stephen Makin
-  - Joanna Wardlaw
-  - Henrik Skibbe
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-12-16'
-  link: https://doi.org/gsv4dk
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1101/2022.07.19.500542
-  title: 'MiniVess: A dataset of rodent cerebrovasculature from <i>in vivo</i> multiphoton
-    fluorescence microscopy imaging'
-  authors:
-  - Charissa Poon
-  - Petteri Teikari
-  - Muhammad Febrian Rachmadi
-  - Henrik Skibbe
-  - Kullervo Hynynen
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-07-20'
-  link: https://doi.org/gtchxr
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1007/978-3-030-87602-9_16
-  title: "Probabilistic Deep Learning with\_Adversarial Training and Volume Interval\
-    \ Estimation - Better Ways to\_Perform and\_Evaluate Predictive Models for White\
-    \ Matter Hyperintensities Evolution"
-  authors:
-  - Muhammad Febrian Rachmadi
-  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
-  - Rizal Maulana
-  - Joanna Wardlaw
-  - Stephen Makin
-  - Henrik Skibbe
-  publisher: Predictive Intelligence in Medicine
-  date: '2021-01-01'
-  link: https://doi.org/gtchxs
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1016/j.media.2020.101712
-  title: Automatic spatial estimation of white matter hyperintensities evolution in
-    brain MRI using disease evolution predictor deep neural networks
-  authors:
-  - Muhammad Febrian Rachmadi
-  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
-  - Stephen Makin
-  - Joanna Wardlaw
-  - Taku Komura
-  publisher: Medical Image Analysis
-  date: '2020-07-01'
-  link: https://doi.org/gg5g37
-  orcid: 0000-0003-1672-9149
-  plugin: sources.py
-  file: sources.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1361841520300761-gr1_lrg.jpg
-  tags:
-  - biomedical
-  - medical image analysis
-- id: doi:10.1101/738641
-  title: Automatic Spatial Estimation of White Matter Hyperintensities Evolution in
-    Brain MRI using Disease Evolution Predictor Deep Neural Networks
-  authors:
-  - Muhammad Febrian Rachmadi
-  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
-  - Stephen Makin
-  - Joanna Wardlaw
-  - Taku Komura
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-08-19'
-  link: https://doi.org/gk2f2f
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1101/662692
-  title: Predicting the Evolution of White Matter Hyperintensities in Brain MRI using
-    Generative Adversarial Networks and Irregularity Map
-  authors:
-  - Muhammad Febrian Rachmadi
-  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
-  - Stephen Makin
-  - Joanna M. Wardlaw
-  - Taku Komura
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-06-06'
-  link: https://doi.org/gkwv79
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1101/550517
-  title: Dilated Saliency U-Net for White Matter Hyperintensities Segmentation using
-    Irregularity Age Map
-  authors:
-  - Yunhee Jeong
-  - Muhammad Febrian Rachmadi
-  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
-  - Taku Komura
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-02-14'
-  link: https://doi.org/gkxctt
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1101/544858
-  title: Evaluation of Enhanced Learning Techniques for Segmenting Ischaemic Stroke
-    Lesions in Brain Magnetic Resonance Perfusion Images using a Convolutional Neural
-    Network Scheme
-  authors:
-  - Carlos Uziel Perez Malla
-  - Maria del C. Valdes Hernandez
-  - Muhammad Febrian Rachmadi
-  - Taku Komura
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-02-08'
-  link: https://doi.org/gkt2fb
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1007/978-3-030-32248-9_17
-  title: Predicting the Evolution of White Matter Hyperintensities in Brain MRI Using
-    Generative Adversarial Networks and Irregularity Map
-  authors:
-  - Muhammad Febrian Rachmadi
-  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
-  - Stephen Makin
-  - Joanna M. Wardlaw
-  - Taku Komura
-  publisher: Lecture Notes in Computer Science
-  date: '2019-01-01'
-  link: https://doi.org/gtchxt
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.21609/jiki.v11i2.617
-  title: Face Recognition Using Complex Valued Backpropagation
-  authors:
-  - Zumrotun Nafisah
-  - Febrian Rachmadi
-  - Elly Matul Imah
-  publisher: Jurnal Ilmu Komputer dan Informasi
-  date: '2018-06-29'
-  link: https://doi.org/gtchxv
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1101/345033
-  title: Transfer Learning for Task Adaptation of Brain Lesion Assessment and Prediction
-    of Brain Abnormalities Progression/Regression using Irregularity Age Map in Brain
-    MRI
-  authors:
-  - Muhammad Febrian Rachmadi
-  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
-  - Taku Komura
-  publisher: Cold Spring Harbor Laboratory
-  date: '2018-06-12'
-  link: https://doi.org/gk2kbb
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1101/334292
-  title: 'Limited One-time Sampling Irregularity Map (LOTS-IM): Automatic Unsupervised
-    Quantitative Assessment of White Matter Hyperintensities in Structural Brain Magnetic
-    Resonance Images'
-  authors:
-  - Muhammad Febrian Rachmadi
-  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
-  - Hongwei Li
-  - Ricardo Guerrero
-  - Rozanna Meijboom
-  - Stewart Wiseman
-  - Adam Waldman
-  - Jianguo Zhang
-  - Daniel Rueckert
-  - Taku Komura
-  publisher: Cold Spring Harbor Laboratory
-  date: '2018-05-31'
-  link: https://doi.org/gkv4t9
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1007/978-3-030-00931-1_58
-  title: Automatic Irregular Texture Detection in Brain MRI Without Human Supervision
-  authors:
-  - Muhammad Febrian Rachmadi
-  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
-  - Taku Komura
-  publisher: "Medical Image Computing and Computer Assisted Intervention \u2013 MICCAI\
-    \ 2018"
-  date: '2018-01-01'
-  link: https://doi.org/gtchxw
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1109/IWBIS.2018.8471705
-  title: Improving Principal Component Analysis Performance for Reducing Spectral
-    Dimension in Hyperspectral Image Classification
-  authors:
-  - Dewa Made Sri Arsa
-  - H. R. Sanabila
-  - M. Febrian Rachmadi
-  - Ahmad Gamal
-  - Wisnu Jatmiko
-  publisher: 2018 International Workshop on Big Data and Information Security (IWBIS)
-  date: '2018-05-01'
-  link: https://doi.org/gtcht5
-  orcid: 0000-0002-0530-7955
-  plugin: orcid.py
-  file: orcid-wj.yaml
-- id: doi:10.1109/IWBIS.2017.8275104
-  title: Optimization of Stacked Unsupervised Extreme Learning Machine to improve
-    classifier performance
-  authors:
-  - Dewa Made Sri Arsa
-  - M. Anwar Ma'sum
-  - Muhammad Febrian Rachmadi
-  - Wisnu Jatmiko
-  publisher: 2017 International Workshop on Big Data and Information Security (IWBIS)
-  date: '2017-09-01'
-  link: https://doi.org/gtchvb
-  orcid: 0000-0002-0530-7955
-  plugin: orcid.py
-  file: orcid-wj.yaml
-- id: doi:10.1016/j.compmedimag.2018.02.002
-  title: Segmentation of white matter hyperintensities using convolutional neural
-    networks with global spatial information in routine clinical brain MRI with none
-    or mild vascular pathology
-  authors:
-  - Muhammad Febrian Rachmadi
-  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
-  - Maria Leonora Fatimah Agan
-  - Carol Di Perri
-  - Taku Komura
-  publisher: Computerized Medical Imaging and Graphics
-  date: '2018-06-01'
-  link: https://doi.org/gtchxx
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1007/978-3-030-00320-3_11
-  title: Transfer Learning for Task Adaptation of Brain Lesion Assessment and Prediction
-    of Brain Abnormalities Progression/Regression Using Irregularity Age Map in Brain
-    MRI
-  authors:
-  - Muhammad Febrian Rachmadi
-  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
-  - Taku Komura
-  publisher: PRedictive Intelligence in MEdicine
-  date: '2018-01-01'
-  link: https://doi.org/gtchxz
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1109/ICACSIS.2017.8355053
-  title: Voxel-based irregularity age map (IAM) for brain's white matter hyperintensities
-    in MRI
-  authors:
-  - Muhammad Febrian Rachmadi
-  - Maria del C. Valdes-Hernandez
-  - Taku Komura
-  publisher: 2017 International Conference on Advanced Computer Science and Information
-    Systems (ICACSIS)
-  date: '2017-10-01'
-  link: https://doi.org/gtchx2
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.3390/jimaging3040066
-  title: 'Deep Learning vs. Conventional Machine Learning: Pilot Study of WMH Segmentation
-    in Brain MRI with Absence or Mild Vascular Pathology'
-  authors:
-  - Muhammad Rachmadi
-  - "Maria Vald\xE9s-Hern\xE1ndez"
-  - Maria Agan
-  - Taku Komura
-  publisher: Journal of Imaging
-  date: '2017-12-14'
-  link: https://doi.org/gtchx3
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1007/978-3-319-60964-5_42
-  title: Evaluation of Four Supervised Learning Schemes in White Matter Hyperintensities
-    Segmentation in Absence or Mild Presence of Vascular Pathology
-  authors:
-  - Muhammad Febrian Rachmadi
-  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
-  - Maria Leonora Fatimah Agan
-  - Taku Komura
-  publisher: Communications in Computer and Information Science
-  date: '2017-01-01'
-  link: https://doi.org/gtchx4
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1109/IWBIS.2016.7872897
-  title: Generalized learning vector quantization particle swarm optimization (GLVQ-PSO)
-    FPGA implementation for real-time electrocardiogram
-  authors:
-  - Yulistiyan Wardhana
-  - Wisnu Jatmiko
-  - M. Febrian Rachmadi
-  publisher: 2016 International Workshop on Big Data and Information Security (IWBIS)
-  date: '2016-10-01'
-  link: https://doi.org/gtchv3
-  orcid: 0000-0002-0530-7955
-  plugin: orcid.py
-  file: orcid-wj.yaml
-- id: doi:10.1109/ICACSIS.2016.7872806
-  title: Vehicle traffic monitoring using single camera and embedded systems
-  authors:
-  - Rindra Wiska
-  - Machmud R Alhamidi
-  - Novian Habibie
-  - Ari Wibisono
-  - Petrus Mursanto
-  - Doni H Ramdhan
-  - M. Febrian Rachmadi
-  - Wisnu Jatmiko
-  publisher: 2016 International Conference on Advanced Computer Science and Information
-    Systems (ICACSIS)
-  date: '2016-10-01'
-  link: https://doi.org/gtchv9
-  orcid: 0000-0002-0530-7955
-  plugin: orcid.py
-  file: orcid-wj.yaml
-- id: eid:2-s2.0-84888584067
-  title: Semantic supported object and context recognition
-  publisher: Proceedings of the SICE Annual Conference
-  date: '2022-05-27'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84888584067&partnerID=MN8TOARS
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1109/MHS.2011.6102210
-  title: Enhanced adaptive traffic signal control system using camera sensor and embedded
-    system
-  authors:
-  - F. Al Afif
-  - M. Febrian Rachmadi
-  - A. Wibowo
-  - W. Jatmiko
-  - P. Mursanto
-  - M. Anwar Ma'sum
-  publisher: 2011 International Symposium on Micro-NanoMechatronics and Human Science
-  date: '2011-11-01'
-  link: https://doi.org/fxrkcp
-  orcid: 0000-0002-0530-7955
-  plugin: orcid.py
-  file: orcid-wj.yaml
-- id: eid:2-s2.0-84869478135
-  title: Fuzzy Learning Vector Quantization Particle Swarm Optimization (FLVQ-PSO)
-    and Fuzzy Neuro Generalized Learning Vector Quantization (FN-GLVQ) for automatic
-    early detection system of heart diseases based on real-time electrocardiogram
-  publisher: Proceedings of the SICE Annual Conference
-  date: '2022-05-26'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84869478135&partnerID=MN8TOARS
-  orcid: 0000-0002-0530-7955
-  plugin: orcid.py
-  file: orcid-wj.yaml
-- id: doi:10.1109/MHS.2012.6492490
-  title: Mobile phones as traffic sensors with map matching and privacy considerations
-  authors:
-  - B. Hardjono
-  - A. Wibowo
-  - M.F. Rachmadi
-  - W. Jatmiko
-  publisher: 2012 International Symposium on Micro-NanoMechatronics and Human Science
-    (MHS)
-  date: '2012-04-01'
-  link: https://doi.org/gtchxh
-  orcid: 0000-0002-0530-7955
-  plugin: orcid.py
-  file: orcid-wj.yaml
-- id: doi:10.1109/MHS.2012.6492420
-  title: Modified Particle Swarm for multimodal functions in dynamic environment using
-    iteration proportional change for inertia weight and weight of social components
-  authors:
-  - D. Widiyanto
-  - A. Wibowo
-  - M.F. Rachmadi
-  - W. Jatmiko
-  publisher: 2012 International Symposium on Micro-NanoMechatronics and Human Science
-    (MHS)
-  date: '2012-04-01'
-  link: https://doi.org/gtchxj
-  orcid: 0000-0002-0530-7955
-  plugin: orcid.py
-  file: orcid-wj.yaml
-- id: eid:2-s2.0-84875120511
-  title: Spectral domain cross correlation function and generalized learning vector
-    quantization for recognizing and classifying Indonesian sign language
-  publisher: 2012 International Conference on Advanced Computer Science and Information
-    Systems, ICACSIS 2012 - Proceedings
-  date: '2022-05-27'
-  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84875120511&partnerID=MN8TOARS
-  orcid: 0000-0003-1672-9149
-  plugin: orcid.py
-  file: orcid-mfr.yaml
-- id: doi:10.1109/TENCON.2011.6129009
-  title: Adaptive traffic signal control system using camera sensor and embedded system
-  authors:
-  - M Febrian Rachmadi
-  - Faris Al Afif
-  - Wisnu Jatmiko
-  - Petrus Mursanto
-  - E A Manggala
-  - M Anwar Ma'sum
-  - Adi Wibowo
-  publisher: TENCON 2011 - 2011 IEEE Region 10 Conference
-  date: '2011-11-01'
-  link: https://doi.org/gtchxn
-  orcid: 0000-0002-0530-7955
-  plugin: orcid.py
-  file: orcid-wj.yaml
 - id: doi:10.33546/bnj.3064
   title: 'Gender role conflicts experienced by Indonesian women with gynecological
     cancer: A phenomenological study'
@@ -925,6 +452,21 @@
   orcid: 0000-0002-0530-7955
   plugin: orcid.py
   file: orcid-wj.yaml
+- id: doi:10.1109/IWBIS.2018.8471705
+  title: Improving Principal Component Analysis Performance for Reducing Spectral
+    Dimension in Hyperspectral Image Classification
+  authors:
+  - Dewa Made Sri Arsa
+  - H. R. Sanabila
+  - M. Febrian Rachmadi
+  - Ahmad Gamal
+  - Wisnu Jatmiko
+  publisher: 2018 International Workshop on Big Data and Information Security (IWBIS)
+  date: '2018-05-01'
+  link: https://doi.org/gtcht5
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
 - id: doi:10.1109/IWBIS.2018.8471717
   title: Level 2 Features with Feedback Mechanism for Toddler Fingerprint Recognition
   authors:
@@ -984,6 +526,20 @@
   orcid: 0000-0002-0530-7955
   plugin: orcid.py
   file: orcid-wj.yaml
+- id: doi:10.1109/IWBIS.2017.8275104
+  title: Optimization of Stacked Unsupervised Extreme Learning Machine to improve
+    classifier performance
+  authors:
+  - Dewa Made Sri Arsa
+  - M. Anwar Ma'sum
+  - Muhammad Febrian Rachmadi
+  - Wisnu Jatmiko
+  publisher: 2017 International Workshop on Big Data and Information Security (IWBIS)
+  date: '2017-09-01'
+  link: https://doi.org/gtchvb
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
 - id: doi:10.1109/MHS.2018.8886933
   title: 'Optimized Convolutional Gabor Using Particle Swarm Optimization : Case Study:
     Vehicle Classification Tasks'
@@ -1250,6 +806,19 @@
   orcid: 0000-0002-0530-7955
   plugin: orcid.py
   file: orcid-wj.yaml
+- id: doi:10.1109/IWBIS.2016.7872897
+  title: Generalized learning vector quantization particle swarm optimization (GLVQ-PSO)
+    FPGA implementation for real-time electrocardiogram
+  authors:
+  - Yulistiyan Wardhana
+  - Wisnu Jatmiko
+  - M. Febrian Rachmadi
+  publisher: 2016 International Workshop on Big Data and Information Security (IWBIS)
+  date: '2016-10-01'
+  link: https://doi.org/gtchv3
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
 - id: doi:10.1109/ICACSIS.2016.7872805
   title: Generative oversampling method (GenOMe) for imbalanced data on apnea detection
     using ECG data
@@ -1329,6 +898,24 @@
   orcid: 0000-0002-0530-7955
   plugin: orcid.py
   file: orcid-wj.yaml
+- id: doi:10.1109/ICACSIS.2016.7872806
+  title: Vehicle traffic monitoring using single camera and embedded systems
+  authors:
+  - Rindra Wiska
+  - Machmud R Alhamidi
+  - Novian Habibie
+  - Ari Wibisono
+  - Petrus Mursanto
+  - Doni H Ramdhan
+  - M. Febrian Rachmadi
+  - Wisnu Jatmiko
+  publisher: 2016 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2016-10-01'
+  link: https://doi.org/gtchv9
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
 - id: doi:10.1109/MHS.2015.7438293
   title: Algal growth rate modeling and prediction optimization using incorporation
     of MLP and CPSO algorithm
@@ -2037,6 +1624,16 @@
   orcid: 0000-0002-0530-7955
   plugin: orcid.py
   file: orcid-wj.yaml
+- id: eid:2-s2.0-84869478135
+  title: Fuzzy Learning Vector Quantization Particle Swarm Optimization (FLVQ-PSO)
+    and Fuzzy Neuro Generalized Learning Vector Quantization (FN-GLVQ) for automatic
+    early detection system of heart diseases based on real-time electrocardiogram
+  publisher: Proceedings of the SICE Annual Conference
+  date: '2022-05-27'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84869478135&partnerID=MN8TOARS
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
 - id: eid:2-s2.0-84875100108
   title: 'ITS information source: Vehicle speed measurement using camera as sensor'
   publisher: 2012 International Conference on Advanced Computer Science and Information
@@ -2046,6 +1643,35 @@
   orcid: 0000-0002-0530-7955
   plugin: orcid.py
   file: orcid-wj.yaml
+- id: doi:10.1109/MHS.2012.6492490
+  title: Mobile phones as traffic sensors with map matching and privacy considerations
+  authors:
+  - B. Hardjono
+  - A. Wibowo
+  - M.F. Rachmadi
+  - W. Jatmiko
+  publisher: 2012 International Symposium on Micro-NanoMechatronics and Human Science
+    (MHS)
+  date: '2012-04-01'
+  link: https://doi.org/gtchxh
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1109/MHS.2012.6492420
+  title: Modified Particle Swarm for multimodal functions in dynamic environment using
+    iteration proportional change for inertia weight and weight of social components
+  authors:
+  - D. Widiyanto
+  - A. Wibowo
+  - M.F. Rachmadi
+  - W. Jatmiko
+  publisher: 2012 International Symposium on Micro-NanoMechatronics and Human Science
+    (MHS)
+  date: '2012-04-01'
+  link: https://doi.org/gtchxj
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
 - id: eid:2-s2.0-84875095288
   title: Modified fuzzy-neuro generalized learning vector quantization for early detection
     of arrhytmias
@@ -2112,6 +1738,22 @@
   orcid: 0000-0002-0530-7955
   plugin: orcid.py
   file: orcid-wj.yaml
+- id: doi:10.1109/TENCON.2011.6129009
+  title: Adaptive traffic signal control system using camera sensor and embedded system
+  authors:
+  - M Febrian Rachmadi
+  - Faris Al Afif
+  - Wisnu Jatmiko
+  - Petrus Mursanto
+  - E A Manggala
+  - M Anwar Ma'sum
+  - Adi Wibowo
+  publisher: TENCON 2011 - 2011 IEEE Region 10 Conference
+  date: '2011-11-01'
+  link: https://doi.org/gtchxn
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
 - id: doi:10.1109/MHS.2011.6102207
   title: Arrhythmia classification from wavelet feature on FGPA
   authors:
@@ -2189,6 +1831,22 @@
   orcid: 0000-0002-0530-7955
   plugin: orcid.py
   file: orcid-wj.yaml
+- id: doi:10.1109/MHS.2011.6102210
+  title: Enhanced adaptive traffic signal control system using camera sensor and embedded
+    system
+  authors:
+  - F. Al Afif
+  - M. Febrian Rachmadi
+  - A. Wibowo
+  - W. Jatmiko
+  - P. Mursanto
+  - M. Anwar Ma'sum
+  publisher: 2011 International Symposium on Micro-NanoMechatronics and Human Science
+  date: '2011-11-01'
+  link: https://doi.org/fxrkcp
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
 - id: eid:2-s2.0-84857346494
   title: FNLVQ design and implementation in FPGA to estimate trichloroethylene in
     white mouse liver images
@@ -2603,6 +2261,347 @@
   orcid: 0000-0002-0530-7955
   plugin: orcid.py
   file: orcid-wj.yaml
+- id: doi:10.1016/j.compbiomed.2024.108414
+  title: A new family of instance-level loss functions for improving instance-level
+    segmentation and detection of white matter hyperintensities in routine clinical
+    brain MRI
+  authors:
+  - Muhammad Febrian Rachmadi
+  - Michal Byra
+  - Henrik Skibbe
+  publisher: Computers in Biology and Medicine
+  date: '2024-05-01'
+  link: https://doi.org/gtqx7j
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.36227/techrxiv.171328773.30330280/v1
+  title: Automated Detection of Craniomaxillofacial Fractures From 3D CT Images Using
+    Ensemble Deep Learning-Based Segmentation Models
+  authors:
+  - Muhammad Febrian Rachmadi
+  - Prasetyanugraheni Kreshanti
+  - Margareth Ingrid Anggraeni
+  - Vika Tania
+  - Reyhan Eddy Yunus
+  - Henrik Skibbe
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2024-04-16'
+  link: https://doi.org/gtrmdt
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: ':'
+  title: Adaptive Traffic Light Control System Using Camera Sensor and Embedded System
+  publisher: 2011 International Symposium on Micro-NanoMechatronics and Human Science
+  date: '2024-08-12'
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1038/s41597-023-02048-8
+  title: A dataset of rodent cerebrovasculature from in vivo multiphoton fluorescence
+    microscopy imaging
+  authors:
+  - Charissa Poon
+  - Petteri Teikari
+  - Muhammad Febrian Rachmadi
+  - Henrik Skibbe
+  - Kullervo Hynynen
+  publisher: Scientific Data
+  date: '2023-03-17'
+  link: https://doi.org/gtchxq
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1101/2022.12.14.520239
+  title: Prediction of white matter hyperintensities evolution one-year post-stroke
+    from a single-point brain MRI and stroke lesions information
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Stephen Makin
+  - Joanna Wardlaw
+  - Henrik Skibbe
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-16'
+  link: https://doi.org/gsv4dk
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1101/2022.07.19.500542
+  title: 'MiniVess: A dataset of rodent cerebrovasculature from <i>in vivo</i> multiphoton
+    fluorescence microscopy imaging'
+  authors:
+  - Charissa Poon
+  - Petteri Teikari
+  - Muhammad Febrian Rachmadi
+  - Henrik Skibbe
+  - Kullervo Hynynen
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-07-20'
+  link: https://doi.org/gtchxr
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1007/978-3-030-87602-9_16
+  title: "Probabilistic Deep Learning with\_Adversarial Training and Volume Interval\
+    \ Estimation - Better Ways to\_Perform and\_Evaluate Predictive Models for White\
+    \ Matter Hyperintensities Evolution"
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Rizal Maulana
+  - Joanna Wardlaw
+  - Stephen Makin
+  - Henrik Skibbe
+  publisher: Lecture Notes in Computer Science
+  date: '2021-01-01'
+  link: https://doi.org/gtchxs
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1016/j.media.2020.101712
+  title: Automatic spatial estimation of white matter hyperintensities evolution in
+    brain MRI using disease evolution predictor deep neural networks
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Stephen Makin
+  - Joanna Wardlaw
+  - Taku Komura
+  publisher: Medical Image Analysis
+  date: '2020-07-01'
+  link: https://doi.org/gg5g37
+  orcid: 0000-0003-1672-9149
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1361841520300761-gr1_lrg.jpg
+  tags:
+  - biomedical
+  - medical image analysis
+- id: doi:10.1101/738641
+  title: Automatic Spatial Estimation of White Matter Hyperintensities Evolution in
+    Brain MRI using Disease Evolution Predictor Deep Neural Networks
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Stephen Makin
+  - Joanna Wardlaw
+  - Taku Komura
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-08-19'
+  link: https://doi.org/gk2f2f
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1101/662692
+  title: Predicting the Evolution of White Matter Hyperintensities in Brain MRI using
+    Generative Adversarial Networks and Irregularity Map
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Stephen Makin
+  - Joanna M. Wardlaw
+  - Taku Komura
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-06-06'
+  link: https://doi.org/gkwv79
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1101/550517
+  title: Dilated Saliency U-Net for White Matter Hyperintensities Segmentation using
+    Irregularity Age Map
+  authors:
+  - Yunhee Jeong
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Taku Komura
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-02-14'
+  link: https://doi.org/gkxctt
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1101/544858
+  title: Evaluation of Enhanced Learning Techniques for Segmenting Ischaemic Stroke
+    Lesions in Brain Magnetic Resonance Perfusion Images using a Convolutional Neural
+    Network Scheme
+  authors:
+  - Carlos Uziel Perez Malla
+  - Maria del C. Valdes Hernandez
+  - Muhammad Febrian Rachmadi
+  - Taku Komura
+  publisher: Cold Spring Harbor Laboratory
+  date: '2019-02-08'
+  link: https://doi.org/gkt2fb
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1007/978-3-030-32248-9_17
+  title: Predicting the Evolution of White Matter Hyperintensities in Brain MRI Using
+    Generative Adversarial Networks and Irregularity Map
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Stephen Makin
+  - Joanna M. Wardlaw
+  - Taku Komura
+  publisher: Lecture Notes in Computer Science
+  date: '2019-01-01'
+  link: https://doi.org/gtchxt
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.21609/jiki.v11i2.617
+  title: Face Recognition Using Complex Valued Backpropagation
+  authors:
+  - Zumrotun Nafisah
+  - Febrian Rachmadi
+  - Elly Matul Imah
+  publisher: Jurnal Ilmu Komputer dan Informasi
+  date: '2018-06-29'
+  link: https://doi.org/gtchxv
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1101/345033
+  title: Transfer Learning for Task Adaptation of Brain Lesion Assessment and Prediction
+    of Brain Abnormalities Progression/Regression using Irregularity Age Map in Brain
+    MRI
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Taku Komura
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-06-12'
+  link: https://doi.org/gk2kbb
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1101/334292
+  title: 'Limited One-time Sampling Irregularity Map (LOTS-IM): Automatic Unsupervised
+    Quantitative Assessment of White Matter Hyperintensities in Structural Brain Magnetic
+    Resonance Images'
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Hongwei Li
+  - Ricardo Guerrero
+  - Rozanna Meijboom
+  - Stewart Wiseman
+  - Adam Waldman
+  - Jianguo Zhang
+  - Daniel Rueckert
+  - Taku Komura
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-05-31'
+  link: https://doi.org/gkv4t9
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1007/978-3-030-00931-1_58
+  title: Automatic Irregular Texture Detection in Brain MRI Without Human Supervision
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Taku Komura
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/gtchxw
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1016/j.compmedimag.2018.02.002
+  title: Segmentation of white matter hyperintensities using convolutional neural
+    networks with global spatial information in routine clinical brain MRI with none
+    or mild vascular pathology
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Maria Leonora Fatimah Agan
+  - Carol Di Perri
+  - Taku Komura
+  publisher: Computerized Medical Imaging and Graphics
+  date: '2018-06-01'
+  link: https://doi.org/gtchxx
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1007/978-3-030-00320-3_11
+  title: Transfer Learning for Task Adaptation of Brain Lesion Assessment and Prediction
+    of Brain Abnormalities Progression/Regression Using Irregularity Age Map in Brain
+    MRI
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Taku Komura
+  publisher: Lecture Notes in Computer Science
+  date: '2018-01-01'
+  link: https://doi.org/gtchxz
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1109/ICACSIS.2017.8355053
+  title: Voxel-based irregularity age map (IAM) for brain's white matter hyperintensities
+    in MRI
+  authors:
+  - Muhammad Febrian Rachmadi
+  - Maria del C. Valdes-Hernandez
+  - Taku Komura
+  publisher: 2017 International Conference on Advanced Computer Science and Information
+    Systems (ICACSIS)
+  date: '2017-10-01'
+  link: https://doi.org/gtchx2
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.3390/jimaging3040066
+  title: 'Deep Learning vs. Conventional Machine Learning: Pilot Study of WMH Segmentation
+    in Brain MRI with Absence or Mild Vascular Pathology'
+  authors:
+  - Muhammad Rachmadi
+  - "Maria Vald\xE9s-Hern\xE1ndez"
+  - Maria Agan
+  - Taku Komura
+  publisher: Journal of Imaging
+  date: '2017-12-14'
+  link: https://doi.org/gtchx3
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: doi:10.1007/978-3-319-60964-5_42
+  title: Evaluation of Four Supervised Learning Schemes in White Matter Hyperintensities
+    Segmentation in Absence or Mild Presence of Vascular Pathology
+  authors:
+  - Muhammad Febrian Rachmadi
+  - "Maria del C. Vald\xE9s-Hern\xE1ndez"
+  - Maria Leonora Fatimah Agan
+  - Taku Komura
+  publisher: Communications in Computer and Information Science
+  date: '2017-01-01'
+  link: https://doi.org/gtchx4
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: eid:2-s2.0-84888584067
+  title: Semantic supported object and context recognition
+  publisher: Proceedings of the SICE Annual Conference
+  date: '2022-05-27'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84888584067&partnerID=MN8TOARS
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
+- id: eid:2-s2.0-84875120511
+  title: Spectral domain cross correlation function and generalized learning vector
+    quantization for recognizing and classifying Indonesian sign language
+  publisher: 2012 International Conference on Advanced Computer Science and Information
+    Systems, ICACSIS 2012 - Proceedings
+  date: '2022-05-27'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84875120511&partnerID=MN8TOARS
+  orcid: 0000-0003-1672-9149
+  plugin: orcid.py
+  file: orcid-mfr.yaml
 - id: doi:10.1117/12.380590
   title: Fuzzy learning vector quantization neural network and its application for
     artificial odor recognition system
