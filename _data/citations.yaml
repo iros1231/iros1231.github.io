@@ -40,6 +40,22 @@
   orcid: 0000-0002-0530-7955
   plugin: orcid.py
   file: orcid-wj.yaml
+- id: doi:10.1109/ACCESS.2024.3510774
+  title: Time-Distributed Vision Transformer Stacked With Transformer for Heart Failure
+    Detection Based on Echocardiography Video
+  authors:
+  - Mgs M Luthfi Ramadhan
+  - Adyatma W. A. Nugraha Yudha
+  - Muhammad Febrian Rachmadi
+  - Kevin Moses Hanky Tandayu
+  - Lies Dina Liastuti
+  - Wisnu Jatmiko
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/g8t4kn
+  orcid: 0000-0002-0530-7955
+  plugin: orcid.py
+  file: orcid-wj.yaml
 - id: doi:10.1109/ACCESS.2023.3292531
   title: Change Detection of High-Resolution Remote Sensing Images Through Adaptive
     Focal Modulation on Hierarchical Feature Maps
