@@ -41,9 +41,10 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include section.html %}
 
 # Doctoral Students
-{% include portrait.html name="Yogiek Indra Kurniawan" image="images/members/na-male.png" role="phd" description="AI for Biomedical" style="small" %}
-{% include portrait.html name="dr. Alida" image="images/members/na-female.png" role="phd" description="Physician" style="small" %}
-{% include portrait.html name="dr. Sari" image="images/members/na-female.png" role="phd" description="Physician" style="small" %}
+{% include portrait.html name="Yogiek Indra Kurniawan" image="images/members/na-male.png" role="phd" description="Continual Learning" style="small" %}
+{% include portrait.html name="dr. Alida" image="images/members/na-female.png" role="phd" description="AI for Dermatology" style="small" %}
+{% include portrait.html name="dr. Sari" image="images/members/na-female.png" role="phd" description="Liver Segmentation" style="small" %}
+{% include portrait.html name="dr. Rony M Santoso" image="images/members/na-female.png" role="phd" description="Lung Ultra Sound" style="small" %}
 
 # Graduate Students
 {% include portrait.html name="Maulana Kholis Fadhlillah" image="images/members/na-male.png" role="master" description="AI for Biomedical" style="small" %}
@@ -84,6 +85,14 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include portrait.html name="Asep Haryono" image="images/members/na-male.png" role="master" description="Boundary Aware Object Detection" style="small" %}
 {% include portrait.html name="Rusnanda Farhan" image="images/members/na-male.png" role="master" description="Embrio Grading Using AI" style="small" %}
 {% include portrait.html name="Muhammad Naufal" image="images/members/na-male.png" role="master" description="LiDAR Instance Segmentation" style="small" %}
+{% include portrait.html name="Sengli Egani" image="images/members/na-male.png" role="master" description="Masked Face Recognition" style="small" %}
+{% include portrait.html name="Daniel Syahputra" image="images/members/na-male.png" role="undergrad" description="Recomendation System" style="small" %}
+{% include portrait.html name="Nina Sevani" image="images/members/na-male.png" role="phd" description="Feature Transfer Learning" style="small" %}
+{% include portrait.html name="Lalu Syamsul Khalid" image="images/members/na-male.png" role="master" description="Building Damage Segmentation" style="small" %}
+{% include portrait.html name="Gipta Galih Widodo" image="images/members/na-male.png" role="phd" description="Apps For Trombosis" style="small" %}
+{% include portrait.html name="Pius Al Berek" image="images/members/na-male.png" role="master" description="Apps For Hypertension" style="small" %}
+{% include portrait.html name="Ria Arafiyah" image="images/members/na-male.png" role="master" description="E-learning" style="small" %}
+{% include portrait.html name="Tuti Purwoningsih" image="images/members/na-male.png" role="phd" description="E-Learning" style="small" %}
 {% include portrait.html name="dr. Achmad Kemal Harzif" image="images/members/na-male.png" role="master" description="Embrio Grading Using AI" style="small" %}
 {% include portrait.html name="dr. Moses" image="images/members/na-male.png" role="master" description="Miokard Infark Detection Using AI" style="small" %}
 {% include portrait.html name="dr. Amanda" image="images/members/na-female.png" role="master" description="Physician" style="small" %}
