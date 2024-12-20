@@ -40,18 +40,15 @@ Our team members are actively developing artificial intelligent systems for vari
 
 {% include section.html %}
 
-# Graduate Students
+# Doctoral Students
 {% include portrait.html name="Yogiek Indra Kurniawan" image="images/members/na-male.png" role="phd" description="AI for Biomedical" style="small" %}
-{% include portrait.html name="dr. Reyhan Adi Yunus" image="images/members/na-male.png" role="phd" description="Physician (AI for Radiology)" style="small" %}
 {% include portrait.html name="dr. Alida" image="images/members/na-female.png" role="phd" description="Physician" style="small" %}
 {% include portrait.html name="dr. Sari" image="images/members/na-female.png" role="phd" description="Physician" style="small" %}
-{% include portrait.html name="dr. Ivana" image="images/members/na-female.png" role="phd" description="Physician" style="small" %}
 
+# Graduate Students
 {% include portrait.html name="Maulana Kholis Fadhlillah" image="images/members/na-male.png" role="master" description="AI for Biomedical" style="small" %}
 {% include portrait.html name="Auliati Nisa" image="images/members/na-female.png" role="master" description="AI for Face Recognition" style="small" %}
-{% include portrait.html name="Qurrota Ayun Majid" image="images/members/na-female.png" role="master" description="Intelligent Traffic Systems" style="small" %}
 {% include portrait.html name="Alina Dhifan Ajriya" image="images/members/na-female.png" role="master" description="Visual Question Answering" style="small" %}
-{% include portrait.html name="dr. Pani" image="images/members/na-female.png" role="master" description="Gamification" style="small" %}
 {% include portrait.html name="Anas Bayu Kusuma" image="images/members/na-male.png" role="master" description="Multi-agents Reinforcement Learning" style="small" %}
 {% include portrait.html name="Aldi Tjendana" image="images/members/na-male.png" role="master" description="Biomedical" style="small" %}
 {% include portrait.html name="Fabian Omarri Putra" image="images/members/na-male.png" role="master" description="Biomedical" style="small" %}
@@ -61,8 +58,11 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include portrait.html name="Yusdi Ari Pralambang" image="images/members/na-male.png" role="master" description="Medical Image Analysis" style="small" %}
 {% include portrait.html name="Ilham Akbar" image="images/members/na-male.png" role="master" description="" style="small" %}
 {% include portrait.html name="Dedy Van Hauten" image="images/members/na-male.png" role="master" description="" style="small" %}
+{% include portrait.html name="dr. Pani" image="images/members/na-female.png" role="master" description="Gamification" style="small" %}
+{% include portrait.html name="dr. Ivana" image="images/members/na-female.png" role="phd" description="Physician" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 {% include list.html data="members" component="portrait" filters="role: master" %}
+
 
 {% include section.html %}
 
@@ -75,11 +75,12 @@ Our team members are actively developing artificial intelligent systems for vari
 
 # Alumni
 {% include portrait.html name="Indra Hermawan" image="images/members/na-male.png" role="phd" description="AI for ECG" style="small" %}
-
-{% include portrait.html name="Alya" image="images/members/na-female.png" role="master" description="Computer Vision for Drones" style="small" %}
-
+{% include portrait.html name="Alya" image="images/members/na-female.png" role="master" description="Argiculture Image Segmentation" style="small" %}
 {% include portrait.html name="Eka" image="images/members/na-male.png" role="master" description="" style="small" %}
-{% include portrait.html name="dr. Moses" image="images/members/na-male.png" role="master" description="Physician" style="small" %}
+{% include portrait.html name="Muhammad Noor Dwi Eldianto" image="images/members/na-male.png" role="master" description="Brain White Matter Segmentation" style="small" %}
+{% include portrait.html name="dr. Moses" image="images/members/na-male.png" role="master" description="Miokard Infark Detection Using AI" style="small" %}
 {% include portrait.html name="dr. Amanda" image="images/members/na-female.png" role="master" description="Physician" style="small" %}
+{% include portrait.html name="dr. Lies Dina Liastuti" image="images/members/na-female.png" role="phd" description="Heart failure detection using AI" style="small" %}
+{% include portrait.html name="dr. Reyhan Adi Yunus" image="images/members/na-male.png" role="phd" description="Physician (AI for Radiology)" style="small" %}
 
 And More To be listed.
