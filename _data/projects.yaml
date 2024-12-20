@@ -47,7 +47,7 @@
 #     - software
 
 - title: Path Planning for UAV Surveillance
-  subtitle: Aprinaldi
+  subtitle: Aprinaldi 
   image: images/photo.jpg
   link: https://github.com/
   description: using metaverse environment -> AirSim
@@ -75,3 +75,45 @@
   group: is4lss
   # tags:
   #   - software
+
+
+- title: Biomedical Imaging
+  subtitle: Muhammad Febrian Rachmadi
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Developing AI for dermatology
+  # repo: greenelab/lab-website-template
+  group: is4biomed
+  # tags:
+  #   - software
+
+- title: Continual Learning
+  subtitle: Muhammad Febrian Rachmadi
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Continual learning in biomedical image
+  # repo: greenelab/lab-website-template
+  group: is4biomed
+  # tags:
+  #   - software
+
+- title: AI tutor for every Indonesian kid
+  subtitle: Vektor Dewanto
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Developing AI for personalized learning
+  # repo: greenelab/lab-website-template
+  group: is4lss
+  # tags:
+  #   - software
+
+- title: Renewable energy
+  subtitle: Vektor Dewanto
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Solar panel in every Indonesian rooftop, generation potential/prediction and challenges
+  # repo: greenelab/lab-website-template
+  group: is4robot
+  # tags:
+  #   - software
+
