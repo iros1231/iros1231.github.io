@@ -78,6 +78,13 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include portrait.html name="Alya" image="images/members/na-female.png" role="master" description="Argiculture Image Segmentation" style="small" %}
 {% include portrait.html name="Eka" image="images/members/na-male.png" role="master" description="" style="small" %}
 {% include portrait.html name="Muhammad Noor Dwi Eldianto" image="images/members/na-male.png" role="master" description="Brain White Matter Segmentation" style="small" %}
+{% include portrait.html name="Luqita Fazry" image="images/members/na-male.png" role="master" description="Change detection" style="small" %}
+{% include portrait.html name="Fityan Azizi" image="images/members/na-male.png" role="master" description="Left Ventricle Segmentation" style="small" %}
+{% include portrait.html name="Gregory Patrick" image="images/members/na-male.png" role="master" description="Electrical Force for Warfare Drone" style="small" %}
+{% include portrait.html name="Asep Haryono" image="images/members/na-male.png" role="master" description="Boundary Aware Object Detection" style="small" %}
+{% include portrait.html name="Rusnanda Farhan" image="images/members/na-male.png" role="master" description="Embrio Grading Using AI" style="small" %}
+{% include portrait.html name="Muhammad Naufal" image="images/members/na-male.png" role="master" description="LiDAR Instance Segmentation" style="small" %}
+{% include portrait.html name="dr. Achmad Kemal Harzif" image="images/members/na-male.png" role="master" description="Embrio Grading Using AI" style="small" %}
 {% include portrait.html name="dr. Moses" image="images/members/na-male.png" role="master" description="Miokard Infark Detection Using AI" style="small" %}
 {% include portrait.html name="dr. Amanda" image="images/members/na-female.png" role="master" description="Physician" style="small" %}
 {% include portrait.html name="dr. Lies Dina Liastuti" image="images/members/na-female.png" role="phd" description="Heart failure detection using AI" style="small" %}

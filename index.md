@@ -3,7 +3,9 @@
 
 # Welcome to the Intelligent Robots and Systems (IRoS) Lab 
 
-Lab IRoS ini berfokus pada penelitian yang berkaitan dengan pengembangan sistem robotik cerdas. Area kajiannya mencakup sistem sensor multimodal, model-model representasi data dan analitika untuk pengembilan keputusan pada sistem robotika, serta sistem aktuator robotika dinamis.
+Intelligent Robot and Systems (IRoS) 
+
+The IRoS Lab focuses on research related to the development of intelligent robotic systems. The areas of study include multimodal sensor systems, data representation and analytics models for decision making in robotic systems, and dynamic robotic actuator systems.
 
 {% include section.html %}
 
