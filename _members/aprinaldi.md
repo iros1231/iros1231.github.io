@@ -1,5 +1,5 @@
 ---
-name: Aprinaldi, Ph.D.Eng.
+name: Aprinaldi Jasa Mantau, Ph.D.Eng.
 image: images/members/ap.jpeg
 description: (Multi-Objective) Optimization, Image Processing and Remote Sensing Surveillance
 role: pi
