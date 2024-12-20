@@ -53,8 +53,8 @@
   description: using metaverse environment -> AirSim
   # repo: greenelab/lab-website-template
   group: is4robot
-  tags:
-    - software
+  # tags:
+  #   - software
 
 - title: Activities Recognition
   subtitle: Aprinaldi
@@ -63,8 +63,8 @@
   description: Violence or any illegal activities
   # repo: greenelab/lab-website-template
   group: is4robot
-  tags:
-    - software
+  # tags:
+  #   - software
 
 - title: Emotion Recognition Based on 3D Generated Image
   subtitle: Aprinaldi
@@ -73,5 +73,5 @@
   description: Using 3 cameras from Jetson Nano
   # repo: greenelab/lab-website-template
   group: is4lss
-  tags:
-    - software
+  # tags:
+  #   - software
