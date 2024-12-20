@@ -77,21 +77,21 @@
   #   - software
 
 
-- title: Biomedical Imaging
+- title: Biomedical Image Analysis For Clinical Purposes
   subtitle: Muhammad Febrian Rachmadi
   image: images/photo.jpg
   link: https://github.com/
-  description: Developing AI for dermatology
+  description: Biomedical Image Analysis For Clinical Purposes
   # repo: greenelab/lab-website-template
   group: is4biomed
   # tags:
   #   - software
 
-- title: Continual Learning
+- title: Continual Learning For Biomedical Image Analysis
   subtitle: Muhammad Febrian Rachmadi
   image: images/photo.jpg
   link: https://github.com/
-  description: Continual learning in biomedical image
+  description: Continual Learning For Biomedical Image Analysis
   # repo: greenelab/lab-website-template
   group: is4biomed
   # tags:
