@@ -62,10 +62,10 @@
 
   <meta name="author" content="Mgs M Luthfi Ramadhan">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2024-12-23T07:11:35+00:00">
+  <meta property="og:updated_time" content="2024-12-23T07:14:08+00:00">
   <meta property="article:published_time" content="2023-01-21T00:00:00+00:00">
-  <meta property="article:modified_time" content="2024-12-23T07:11:35+00:00">
-  <meta name="revised" content="2024-12-23T07:11:35+00:00">
+  <meta property="article:modified_time" content="2024-12-23T07:14:08+00:00">
+  <meta name="revised" content="2024-12-23T07:14:08+00:00">
 
 
 <script type="application/ld+json">
@@ -75,7 +75,7 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Gradient Descent Simplified" },
       "datePublished": "2023-01-21T00:00:00+00:00",
-      "dateModified": "2024-12-23T07:11:35+00:00",
+      "dateModified": "2024-12-23T07:14:08+00:00",
     
     "name": "Gradient Descent Simplified",
     "description": "Intelligent Robots and Systems (IRoS) Lab, Faculty of Computer Science, Universitas Indonesia. Lab IRoS ini berfokus pada penelitian yang berkaitan dengan pengembangan sistem robotik cerdas. Area kajiannya mencakup sistem sensor multimodal, model-model representasi data dan analitika untuk pengembilan keputusan pada sistem robotika, serta sistem aktuator robotika dinamis.",
@@ -489,6 +489,17 @@ $X_{t+1}$ = new value of x after updated
 $X_t$ = current value of x
 $\alpha$ = learning rate
 $\nabla$ = gradient with respect to x</p>
+
+<p>There are several types of gradient descent, including:</p>
+<ol>
+  <li>batch gradient descent</li>
+  <li>stochastic gradient descent (SGD)</li>
+  <li>mini-batch gradient descent</li>
+</ol>
+
+<h1 id="batch-gradient-descent">Batch gradient descent</h1>
+<p>Batch gradient descent is a type of gradient descent that update the parameters after forward and backward pass through the entire dataset. It is called “batch” gradient descent because it uses the entire dataset to compute the gradient of the loss function at each iteration. Batch gradient descent can be formulated as follows:
+$$X_{t+1}=X_t - \alpha \sum_{1}^{n}\nabla$$</p>
   </section>
 
   
