@@ -18,7 +18,7 @@ The term frequency is the number of occurrences of a specific term in a document
 Document frequency is the number of documents containing a specific term. Document frequency indicates how common the term is.
 
 Inverse document frequency (IDF) is the weight of a term, it aims to reduce the weight of a term if the term’s occurrences are scattered throughout all the documents. IDF can be calculated as follow:
-Inline equation: ${idf}_i=\log(\frac{n}{{df}_i})$
+Inline equation: ${idf}_i=\log(\dfrac{n}{{df}_i})$
 Where idfᵢ is the IDF score for term i, dfᵢ is the number of documents containing term i, and n is the total number of documents. The higher the DF of a term, the lower the IDF for the term. When the number of DF is equal to n which means that the term appears in all documents, the IDF will be zero, since log(1) is zero, when in doubt just put this term in the stopword list because it doesn't provide much information.
 
 The TF-IDF score as the name suggests is just a multiplication of the term frequency matrix with its IDF, it can be calculated as follow:
