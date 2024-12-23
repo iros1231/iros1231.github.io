@@ -33,4 +33,13 @@ Suppose we have 3 texts and we need to vectorize these texts using TF-IDF.
 
 ## Step 1
 Create a term frequency matrix where rows are documents and columns are distinct terms throughout all documents. Count word occurrences in every text.
+![Alt text](https://archive.ph/8Sh0J/82150f914b997894d130ba4b50cc5722525c173c.webp)
+
+## Step 2
+Compute inverse document frequency (IDF) using the previously explained formula.
+![Alt text](https://archive.ph/8Sh0J/60d918258fb0c9a2fc310fec6a1cdffe89580092.webp)
+
+## Step 3
+Multiply TF matrix with IDF respectively
+![Alt text](https://archive.ph/8Sh0J/99ef38c9b1da12ef5cfae59545fb8a08ae60b142.webp)
 
