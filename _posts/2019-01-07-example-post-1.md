@@ -27,3 +27,11 @@ The TF-IDF score as the name suggests is just a multiplication of the term frequ
 $$w_{i,j}={tf}_{i,j} \times {idf}_i$$
 
 Where wᵢⱼ is TF-IDF score for term i in document j, tfᵢⱼ is term frequency for term i in document j, and idfᵢ is IDF score for term i.
+
+# Example
+Suppose we have 3 texts and we need to vectorize these texts using TF-IDF.
+| Sample   | Text |
+| -------- | ------- |
+| Sample 1 | I love natural language processing but i hate python  |
+| Sample 2 | I like image processing |
+| Sample 3 | I like image processing and signal processing|
