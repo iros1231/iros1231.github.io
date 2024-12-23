@@ -34,7 +34,7 @@ Suppose we have 3 texts and we need to vectorize these texts using TF-IDF.
 | Sample 1 | I love natural language processing but i hate python  |
 | Sample 2 | I like image processing |
 | Sample 3 | I like image processing and signal processing|
-
+![Alt text](\img_2019-01-07\2.png)
 ## Step 1
 Create a term frequency matrix where rows are documents and columns are distinct terms throughout all documents. Count word occurrences in every text.
 
