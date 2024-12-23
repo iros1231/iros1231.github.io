@@ -62,6 +62,7 @@ A commonly used mini-batch size is between 16 and 256. But the ideal mini-batch 
 
 # Example
 Suppose a function of one variable is as follow: $f(x)=(x-1)^2$ with an initial x₀ of 2 and a learning rate of 0.3. We will do 5 iterations of stochastic gradient descent to minimize function $f(x)$.
+
 ![Alt text](https://archive.ph/ia2xk/4a0df411d6f0b26a871865a88420758f786201ca.webp)
 
 Step 1: Find the derivative of $f(x)$ which is $f’(x) = 2(x-1)$
@@ -122,6 +123,7 @@ Overshooting the minimum is a problem in gradient descent that usually occurs wh
 Following is an example with a high learning rate which leads to oscillation:
 
 Suppose a function of one variable as follow: $f(x)=(x-1)^2$ with an initial $x_0$ of 2 and a learning rate of 0.95. We will do 5 iterations of stochastic gradient descent to minimize function $f(x)$.
+
 ![Alt text](https://archive.ph/ia2xk/b92965e8c9d1b4dfc02063bfda723d9978fc5fe8.webp)
 
 Step 1: Find the derivative of $f(x)$ which is $f’(x) = 2(x-1)$
@@ -131,6 +133,7 @@ $$f’(2) = 2$$
 Step 3: Update x using the gradient descent formula
 $$x_1 = 2–(0.9 \times 2)$$
 $$x_1 = 0.2$$
+
 ![Alt text](https://archive.ph/ia2xk/f82922ae2c33ef47d7857e177787c4a7429ab11e.webp)
 
 Step 4: Compute the gradient of $f’(x_1)$
@@ -139,6 +142,7 @@ $$f’(0.2) = -1.6$$
 Step 5: Update x using the gradient descent formula
 $$x_2 = 0.2–(0.9 \times -1.6)$$
 $$x_2 = 1.64$$
+
 ![Alt text](https://archive.ph/ia2xk/3712617344571d40772a018b850d57fe34d572c4.webp)
 
 Step 6: Compute the gradient of $f’(x_2)$
@@ -147,6 +151,7 @@ $$f’(1.64) = 1.28$$
 Step 7: Update x using the gradient descent formula
 $$x_3 = 1.64–(0.9 \times 1.28)$$
 $$x_3 = 0.488$$
+
 ![Alt text](https://archive.ph/ia2xk/060b1de4e994b86c431c66c03c6b208705840c45.webp)
 
 Step 8: Compute the gradient of $f’(x_3)$
@@ -155,6 +160,7 @@ $$f’(0.488) = -1.024$$
 Step 9: Update x using the gradient descent formula
 $$x_4 = 0.488–(0.9 \times -1.024)$$
 $$x_4 = 1.4096$$
+
 ![Alt text](https://archive.ph/ia2xk/3e856e35bf7cad2b54a274abf9759af1101eab2a.webp)
 
 Step 10: Compute the gradient of $f’(x_4)$
@@ -163,6 +169,7 @@ $$f’(1.4096) = 0.8192$$
 Step 11: Update x using the gradient descent formula
 $$x_5 = 1.4096–(0.9 \times 0.8192)$$
 $$x_5 = 0.67232$$
+
 ![Alt text](https://archive.ph/ia2xk/30a8c231b24a56dd047389c8745a0d87a4036a24.webp)
 
 After 5 iterations, the function $f(x)$ is still not at its minimum. We can verify this by putting the resulting x into $f(x)$ which result is 0.1073741824. That is not quite close to 0.
