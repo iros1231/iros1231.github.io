@@ -19,14 +19,14 @@ Document frequency is the number of documents containing a specific term. Docume
 
 Inverse document frequency (IDF) is the weight of a term, it aims to reduce the weight of a term if the term’s occurrences are scattered throughout all the documents. IDF can be calculated as follow:
 
-$${idf}_i=\log(\dfrac{n}{{df}_i})$$
+$${idf}_i=\log(\frac{n}{{df}_i})$$
 
-Where idfᵢ is the IDF score for term i, dfᵢ is the number of documents containing term i, and n is the total number of documents. The higher the DF of a term, the lower the IDF for the term. When the number of DF is equal to n which means that the term appears in all documents, the IDF will be zero, since log(1) is zero, when in doubt just put this term in the stopword list because it doesn't provide much information.
+Where idfᵢ is the IDF score for term i, ${df}_i$ is the number of documents containing term i, and n is the total number of documents. The higher the DF of a term, the lower the IDF for the term. When the number of DF is equal to n which means that the term appears in all documents, the IDF will be zero, since $log(1)$ is zero, when in doubt just put this term in the stopword list because it doesn't provide much information.
 
 The TF-IDF score as the name suggests is just a multiplication of the term frequency matrix with its IDF, it can be calculated as follow:
 $$w_{i,j}={tf}_{i,j} \times {idf}_i$$
 
-Where wᵢⱼ is TF-IDF score for term i in document j, tfᵢⱼ is term frequency for term i in document j, and idfᵢ is IDF score for term i.
+Where $w_{i,j}$ is TF-IDF score for term i in document j, ${tf}_{i,j}$ is term frequency for term i in document j, and ${df}_i$ is IDF score for term i.
 
 # Example
 Suppose we have 3 texts and we need to vectorize these texts using TF-IDF.
