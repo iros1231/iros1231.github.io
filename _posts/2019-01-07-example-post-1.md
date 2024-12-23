@@ -1,6 +1,6 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: Duar N-Max
+author: Duar
 tags:
   - biology
   - medicine
