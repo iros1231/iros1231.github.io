@@ -21,3 +21,8 @@ $X_t$ = current value of x
 $\alpha$ = learning rate
 $\nabla$ = gradient with respect to x
 
+There are several types of gradient descent, including:
+1. batch gradient descent
+2. stochastic gradient descent (SGD)
+3. mini-batch gradient descent
+
