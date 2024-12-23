@@ -67,7 +67,49 @@ Step 2: Compute the gradient of $f’(x_0)$
 $$f'(2) = 2(2-1)$$
 $$f'(2) = 2$$
 Step 3: Update x using the gradient descent formula
-$$X_1 = 2 - (0.3-2)$$
-$$X_1 = 1.4
+$$X_1 = 2 - (0.3 \times 2)$$
+$$X_1 = 1.4$$
 
 ![Alt text](https://archive.ph/ia2xk/3901fd17e66ca023b78c2820ffb913618ecf0350.webp)
+
+Step 4: Compute the gradient of $f’(x_1)$
+$$f'(1.4) = 2(1.4-1)$$
+$$f'(1.4) = 0.8$$
+Step 5: Update x using the gradient descent formula
+$$X_2 = 1.4 - (0.3 \times 0.8)$$
+$$X_2 = 1.08$$
+
+![Alt text](https://archive.ph/ia2xk/e3611942c3f15830475bae58973fe3fa7add3edc.webp)
+
+Step 6: Compute the gradient of $f’(x_2)$
+$$f'(1.08) = 2(1.08-1)$$
+$$f'(1.08) = 0.16$$
+Step 7: Update x using the gradient descent formula
+$$X_3 = 1.08 - (0.3 \times 0.16)$$
+$$X_3 = 1.032$$
+
+![Alt text](https://archive.ph/ia2xk/cf86aa2ded05a3e951ca6f8cbbf6d455ca45d0b4.webp)
+
+Step 8: Compute the gradient of $f’(x_3)$
+$$f'(1.032) = 2(1.032-1)$$
+$$f'(1.032) = 0.064$$
+Step 9: Update x using the gradient descent formula
+$$X_4 = 1.032 - (0.3 \times 0.064)$$
+$$X_4 = 1.0128$$
+
+![Alt text](https://archive.ph/ia2xk/59b6f2c4f5ec25125cb90c645b1fbf9e63de4ba2.webp)
+
+Step 10: Compute the gradient of $f’(x_4)$
+$$f'(1.0128) = 2(1.0128-1)$$
+$$f'(1.0128) = 0.0256$$
+Step 11: Update x using the gradient descent formula
+$$X_5 = 1.0128 - (0.3 \times 0.0256)$$
+$$X_5 = 1.00512$$
+
+![Alt text](https://archive.ph/ia2xk/73ea88d14e2359c135d548d67ed85c6c5e220ee7.webp)
+
+Since the gradient almost reached 0 which will give slight to no update for variable x anymore, it means that the function $f(x)$ is already at or near its minimum with $x=1.00512$. This point of gradient descent is also known as convergence. We can verify this by putting the resulting x into $f(x)$ which results in a number that is very close to 0.
+$$f(1.00512) = (1.00512-1)^2$$
+$$f(1.00512) = 0.0000262144$$
+
+The number of iterations itself is a hyperparameter that one has to decide before performing gradient descent. Another way to know when to stop the iteration is by thresholding the gradient. As we iterate the gradient descent over and over again, the gradient tends to get smaller and smaller. When the gradient passes a certain threshold, that is when the iteration should be stopped. In the above example, we demonstrated 5 iterations. Of course, one can still continue the iteration until f(x) gets closer and closer to 0. The learning rate plays a crucial role in gradient descent, as the name suggests, it determines how big of a quantity should gradient descent update the variable x. If it is set too low, it will take a lot more iteration for gradient descent to converge, on the other hand, if it is set too high, it will create some oscillations or worse make the gradient descent divergence.
