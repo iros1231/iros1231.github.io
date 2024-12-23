@@ -16,10 +16,10 @@ Mathematically speaking, gradient descent can be formulated as follow:
 $$X_{t+1}=X_t - \alpha \nabla$$
 
 where,
-$X_{t+1}$ = new value of x after updated
-$X_t$ = current value of x
-$\alpha$ = learning rate
-$\nabla$ = gradient with respect to x
+1. $X_{t+1}$ = new value of x after updated
+2. $X_t$ = current value of x
+3. $\alpha$ = learning rate
+4. $\nabla$ = gradient with respect to x
 
 There are several types of gradient descent, including:
 1. batch gradient descent
