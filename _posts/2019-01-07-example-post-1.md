@@ -43,3 +43,15 @@ Compute inverse document frequency (IDF) using the previously explained formula.
 Multiply TF matrix with IDF respectively
 ![Alt text](https://archive.ph/8Sh0J/99ef38c9b1da12ef5cfae59545fb8a08ae60b142.webp)
 
+That's it 😃! the text is now ready to feed into a machine learning algorithm.
+
+# Limitations
+1. It is only useful as a lexical level feature.
+2. Synonymities are neglected.
+3. It doesn't capture semantic.
+4. The highest TF-IDF score may not make sense with the topic of the document, since IDF gives high weight if the DF of a term is low.
+5. It neglects the sequence of the terms.
+
+# Conclusion
+In order to process natural language, the text must be represented as a numerical feature. The process of transforming text into a numerical feature is called text vectorization. TF-IDF is one of the most popular text vectorizers, the calculation is very simple and easy to understand. It gives the rare term high weight and gives the common term low weight.
+
