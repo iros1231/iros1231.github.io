@@ -19,7 +19,7 @@ Document frequency is the number of documents containing a specific term. Docume
 
 Inverse document frequency (IDF) is the weight of a term, it aims to reduce the weight of a term if the term’s occurrences are scattered throughout all the documents. IDF can be calculated as follow:
 
-$${idf}_i=\log(\frac{n}{{df}_i})$$
+$${idf}_i=\log()$$
 
 Where idfᵢ is the IDF score for term i, ${df}_i$ is the number of documents containing term i, and n is the total number of documents. The higher the DF of a term, the lower the IDF for the term. When the number of DF is equal to n which means that the term appears in all documents, the IDF will be zero, since $log(1)$ is zero, when in doubt just put this term in the stopword list because it doesn't provide much information.
 
