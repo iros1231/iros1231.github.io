@@ -62,10 +62,10 @@
 
   <meta name="author" content="Duar">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2024-12-23T04:42:34+00:00">
+  <meta property="og:updated_time" content="2024-12-23T05:53:31+00:00">
   <meta property="article:published_time" content="2019-01-07T00:00:00+00:00">
-  <meta property="article:modified_time" content="2024-12-23T04:42:34+00:00">
-  <meta name="revised" content="2024-12-23T04:42:34+00:00">
+  <meta property="article:modified_time" content="2024-12-23T05:53:31+00:00">
+  <meta name="revised" content="2024-12-23T05:53:31+00:00">
 
 
 <script type="application/ld+json">
@@ -75,7 +75,7 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Duar N-Max" },
       "datePublished": "2019-01-07T00:00:00+00:00",
-      "dateModified": "2024-12-23T04:42:34+00:00",
+      "dateModified": "2024-12-23T05:53:31+00:00",
     
     "name": "Duar N-Max",
     "description": "Intelligent Robots and Systems (IRoS) Lab, Faculty of Computer Science, Universitas Indonesia. Lab IRoS ini berfokus pada penelitian yang berkaitan dengan pengembangan sistem robotik cerdas. Area kajiannya mencakup sistem sensor multimodal, model-model representasi data dan analitika untuk pengembilan keputusan pada sistem robotika, serta sistem aktuator robotika dinamis.",
@@ -481,12 +481,25 @@ Document frequency is the number of documents containing a specific term. Docume
 
 <p>Inverse document frequency (IDF) is the weight of a term, it aims to reduce the weight of a term if the term’s occurrences are scattered throughout all the documents. IDF can be calculated as follow:</p>
 
-<p>Where idfᵢ is the IDF score for term i, dfᵢ is the number of documents containing term i, and n is the total number of documents. The higher the DF of a term, the lower the IDF for the term. When the number of DF is equal to n which means that the term appears in all documents, the IDF will be zero, since log(1) is zero, when in doubt just put this term in the stopword list because it doesn’t provide much information.</p>
+<p>$${idf}_i=\log()$$</p>
+
+<p>Where idfᵢ is the IDF score for term i, ${df}_i$ is the number of documents containing term i, and n is the total number of documents. The higher the DF of a term, the lower the IDF for the term. When the number of DF is equal to n which means that the term appears in all documents, the IDF will be zero, since $log(1)$ is zero, when in doubt just put this term in the stopword list because it doesn’t provide much information.</p>
 
 <p>The TF-IDF score as the name suggests is just a multiplication of the term frequency matrix with its IDF, it can be calculated as follow:
 $$w_{i,j}={tf}_{i,j} \times {idf}_i$$</p>
 
-<p>Where wᵢⱼ is TF-IDF score for term i in document j, tfᵢⱼ is term frequency for term i in document j, and idfᵢ is IDF score for term i.</p>
+<p>Where $w_{i,j}$ is TF-IDF score for term i in document j, ${tf}_{i,j}$ is term frequency for term i in document j, and ${df}_i$ is IDF score for term i.</p>
+
+<h1 id="example">Example</h1>
+<p>Suppose we have 3 texts and we need to vectorize these texts using TF-IDF.
+| Sample   | Text |
+| ——– | ——- |
+| Sample 1 | I love natural language processing but i hate python  |
+| Sample 2 | I like image processing |
+| Sample 3 | I like image processing and signal processing|</p>
+
+<h2 id="step-1">Step 1</h2>
+<p>Create a term frequency matrix where rows are documents and columns are distinct terms throughout all documents. Count word occurrences in every text.</p>
   </section>
 
   
