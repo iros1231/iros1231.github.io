@@ -574,7 +574,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 <div class="post-excerpt">
   
   
-  <a href="/2023/01/21/example-post-2.html">Example post 2</a>
+  <a href="/2023/01/21/example-post-2.html">Gradient Descent Simplified</a>
 
   <div class="post-info">
   
@@ -582,7 +582,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
     
       <span data-tooltip="Author">
         <i class="icon fa-solid fa-feather-pointed"></i>
-        <span>jane-smith</span>
+        <span>Mgs M Luthfi Ramadhan</span>
       </span>
     
   
@@ -608,6 +608,30 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
   
 
+
+  <div class="tags" data-link="/blog">
+    
+      <a href="/blog?search=%22tag:%20Data%20Science%22" class="tag" data-tooltip='Show items with the tag "Data Science"'>
+        Data Science
+      </a>
+    
+      <a href="/blog?search=%22tag:%20Artificial%20Intelligence%22" class="tag" data-tooltip='Show items with the tag "Artificial Intelligence"'>
+        Artificial Intelligence
+      </a>
+    
+      <a href="/blog?search=%22tag:%20Machine%20Learning%22" class="tag" data-tooltip='Show items with the tag "Machine Learning"'>
+        Machine Learning
+      </a>
+    
+      <a href="/blog?search=%22tag:%20NLP%22" class="tag" data-tooltip='Show items with the tag "NLP"'>
+        NLP
+      </a>
+    
+      <a href="/blog?search=%22tag:%20Data%22" class="tag" data-tooltip='Show items with the tag "Data"'>
+        Data
+      </a>
+    
+  </div>
 
 
 
@@ -691,9 +715,11 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
   
   
-  <p data-search="Most machine learning algorithms are fulfilled with mathematical things such as statistics  algebra  calculus and etc  They expect the data to be numerical such as a 2 dimensional array with rows as instances and columns as features  The problem with natural language is that the data is in the form of raw text  so that the text needs to be transformed into a vector  The process of transforming text into a vector is commonly referred to as text vectorization  It s a fundamental process in natural language processing because none of the machine learning algorithms understand a text  not even computers  Text vectorization algorithm namely TF IDF vectorizer  which is a very popular approach for traditional machine learning algorithms can help in transforming text into vectors TF IDFTerm frequency inverse document frequency is a text vectorizer that transforms the text into a usable vector  It combines 2 concepts  Term Frequency  TF  and Document Frequency  DF  The term frequency is the number of occurrences of a specific term in a document  Term frequency indicates how important a specific term in a document  Term frequency represents every text from the data as a matrix whose rows are the number of documents and columns are the number of distinct terms throughout all documents Document frequency is the number of documents containing a specific term  Document frequency indicates how common the term is Inverse document frequency  IDF  is the weight of a term  it aims to reduce the weight of a term if the term s occurrences are scattered throughout all the documents  IDF can be calculated as follow    idf  i  log  frac n  df i    Where idfᵢ is the IDF score for term i    df  i  is the number of documents containing term i  and n is the total number of documents  The higher the DF of a term  the lower the IDF for the term  When the number of DF is equal to n which means that the term appears in all documents  the IDF will be zero  since  log 1   is zero  when in doubt just put this term in the stopword list because it doesn t provide much information The TF IDF score as the name suggests is just a multiplication of the term frequency matrix with its IDF  it can be calculated as follow   w  i j   tf   i j   times  idf  i  Where  w  i j   is TF IDF score for term i in document j    tf   i j   is term frequency for term i in document j  and   df  i  is IDF score for term i ExampleSuppose we have 3 texts and we need to vectorize these texts using TF IDF Step 1Create a term frequency matrix where rows are documents and columns are distinct terms throughout all documents  Count word occurrences in every text Step 2Compute inverse document frequency  IDF  using the previously explained formula Step 3Multiply TF matrix with IDF respectivelyThat s it    the text is now ready to feed into a machine learning algorithm Limitations  It is only useful as a lexical level feature   Synonymities are neglected   It doesn t capture semantic   The highest TF IDF score may not make sense with the topic of the document  since IDF gives high weight if the DF of a term is low   It neglects the sequence of the terms ConclusionIn order to process natural language  the text must be represented as a numerical feature  The process of transforming text into a numerical feature is called text vectorization  TF IDF is one of the most popular text vectorizers  the calculation is very simple and easy to understand  It gives the rare term high weight and gives the common term low weight ">
+  <p data-search="Most machine learning algorithms are fulfilled with mathematical things such as statistics  algebra  calculus and etc  They expect the data to be numerical such as a 2 dimensional array with rows as instances and columns as features  The problem with natural language is that the data is in the form of raw text  so that the text needs to be transformed into a vector  The process of transforming text into a vector is commonly referred to as text vectorization  It s a fundamental process in natural language processing because none of the machine learning algorithms understand a text  not even computers  Text vectorization algorithm namely TF IDF vectorizer  which is a very popular approach for traditional machine learning algorithms can help in transforming text into vectors This article is originally published in Towards Data Science and is currently behind medium paywall  If you have medium subscription  please have a look at the original version TF IDFTerm frequency inverse document frequency is a text vectorizer that transforms the text into a usable vector  It combines 2 concepts  Term Frequency  TF  and Document Frequency  DF  The term frequency is the number of occurrences of a specific term in a document  Term frequency indicates how important a specific term in a document  Term frequency represents every text from the data as a matrix whose rows are the number of documents and columns are the number of distinct terms throughout all documents Document frequency is the number of documents containing a specific term  Document frequency indicates how common the term is Inverse document frequency  IDF  is the weight of a term  it aims to reduce the weight of a term if the term s occurrences are scattered throughout all the documents  IDF can be calculated as follow    idf  i  log  frac n  df i    Where idfᵢ is the IDF score for term i    df  i  is the number of documents containing term i  and n is the total number of documents  The higher the DF of a term  the lower the IDF for the term  When the number of DF is equal to n which means that the term appears in all documents  the IDF will be zero  since  log 1   is zero  when in doubt just put this term in the stopword list because it doesn t provide much information The TF IDF score as the name suggests is just a multiplication of the term frequency matrix with its IDF  it can be calculated as follow   w  i j   tf   i j   times  idf  i  Where  w  i j   is TF IDF score for term i in document j    tf   i j   is term frequency for term i in document j  and   df  i  is IDF score for term i ExampleSuppose we have 3 texts and we need to vectorize these texts using TF IDF Step 1Create a term frequency matrix where rows are documents and columns are distinct terms throughout all documents  Count word occurrences in every text Step 2Compute inverse document frequency  IDF  using the previously explained formula Step 3Multiply TF matrix with IDF respectivelyThat s it    the text is now ready to feed into a machine learning algorithm Limitations  It is only useful as a lexical level feature   Synonymities are neglected   It doesn t capture semantic   The highest TF IDF score may not make sense with the topic of the document  since IDF gives high weight if the DF of a term is low   It neglects the sequence of the terms ConclusionIn order to process natural language  the text must be represented as a numerical feature  The process of transforming text into a numerical feature is called text vectorization  TF IDF is one of the most popular text vectorizers  the calculation is very simple and easy to understand  It gives the rare term high weight and gives the common term low weight ">
     
 Most machine learning algorithms are fulfilled with mathematical things such as statistics, algebra, calculus and etc. They expect the data to be numerical such as a 2-dimensional array with rows as instances and columns as features. The problem with natural language is that the data is in the form of raw text, so that the text needs to be transformed into a vector. The process of transforming text into a vector is commonly referred to as text vectorization. It’s a fundamental process in natural language processing because none of the machine learning algorithms understand a text, not even computers. Text vectorization algorithm namely TF-IDF vectorizer, which is a very popular approach for traditional machine learning algorithms can help in transforming text into vectors.
+
+This article is originally published in Towards Data Science and is currently behind medium paywall. If you have medium subscription, please have a look at the original version.
 
   </p>
 </div>
