@@ -29,12 +29,8 @@ Where $w_{i,j}$ is TF-IDF score for term i in document j, ${tf}_{i,j}$ is term f
 
 # Example
 Suppose we have 3 texts and we need to vectorize these texts using TF-IDF.
-| Sample   | Text |
-| -------- | ------- |
-| Sample 1 | I love natural language processing but i hate python  |
-| Sample 2 | I like image processing |
-| Sample 3 | I like image processing and signal processing|
 ![Alt text](https://archive.ph/8Sh0J/bb34f145575d833d1a39e674b9683335a864ab16.webp)
+
 ## Step 1
 Create a term frequency matrix where rows are documents and columns are distinct terms throughout all documents. Count word occurrences in every text.
 
