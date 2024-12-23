@@ -122,7 +122,7 @@ Overshooting the minimum is a problem in gradient descent that usually occurs wh
 
 Following is an example with a high learning rate which leads to oscillation:
 
-Suppose a function of one variable as follow: $f(x)=(x-1)^2$ with an initial $x_0$ of 2 and a learning rate of 0.95. We will do 5 iterations of stochastic gradient descent to minimize function $f(x)$.
+Suppose a function of one variable as follow: $f(x)=(x-1)^2$ with an initial $x_0$ of 2 and a learning rate of 0.9. We will do 5 iterations of stochastic gradient descent to minimize function $f(x)$.
 
 ![Alt text](https://archive.ph/ia2xk/b92965e8c9d1b4dfc02063bfda723d9978fc5fe8.webp)
 
