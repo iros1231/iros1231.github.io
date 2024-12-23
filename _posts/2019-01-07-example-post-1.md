@@ -23,3 +23,5 @@ Where idfᵢ is the IDF score for term i, dfᵢ is the number of documents conta
 
 The TF-IDF score as the name suggests is just a multiplication of the term frequency matrix with its IDF, it can be calculated as follow:
 Inline equation: $w_i,j={tf}_i,j \times {idf}_i$
+
+Where wᵢⱼ is TF-IDF score for term i in document j, tfᵢⱼ is term frequency for term i in document j, and idfᵢ is IDF score for term i.
