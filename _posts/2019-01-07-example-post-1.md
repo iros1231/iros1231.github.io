@@ -10,3 +10,9 @@ Most machine learning algorithms are fulfilled with mathematical things such as 
 
 ### TF-IDF
 Term frequency-inverse document frequency is a text vectorizer that transforms the text into a usable vector. It combines 2 concepts, Term Frequency (TF) and Document Frequency (DF).
+
+The term frequency is the number of occurrences of a specific term in a document. Term frequency indicates how important a specific term in a document. Term frequency represents every text from the data as a matrix whose rows are the number of documents and columns are the number of distinct terms throughout all documents.
+Document frequency is the number of documents containing a specific term. Document frequency indicates how common the term is.
+
+Inverse document frequency (IDF) is the weight of a term, it aims to reduce the weight of a term if the term’s occurrences are scattered throughout all the documents. IDF can be calculated as follow:
+Inline equation: ${idf}_i=\log(\frac{}{})$
