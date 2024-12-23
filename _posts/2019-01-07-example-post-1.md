@@ -2,7 +2,7 @@
 title: Duar N-Max
 author: Duar
 tags:
-  - biology
+  - duar
   - medicine
   - big data
 ---
