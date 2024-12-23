@@ -22,6 +22,6 @@ Inverse document frequency (IDF) is the weight of a term, it aims to reduce the 
 Where idfᵢ is the IDF score for term i, dfᵢ is the number of documents containing term i, and n is the total number of documents. The higher the DF of a term, the lower the IDF for the term. When the number of DF is equal to n which means that the term appears in all documents, the IDF will be zero, since log(1) is zero, when in doubt just put this term in the stopword list because it doesn't provide much information.
 
 The TF-IDF score as the name suggests is just a multiplication of the term frequency matrix with its IDF, it can be calculated as follow:
-Inline equation: $w_i,j={tf}_i,j \times {idf}_i$
+$$w_{i,j}={tf}_{i,j} \times {idf}_i$$
 
 Where wᵢⱼ is TF-IDF score for term i in document j, tfᵢⱼ is term frequency for term i in document j, and idfᵢ is IDF score for term i.
