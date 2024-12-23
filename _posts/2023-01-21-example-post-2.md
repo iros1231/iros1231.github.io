@@ -26,3 +26,7 @@ There are several types of gradient descent, including:
 2. stochastic gradient descent (SGD)
 3. mini-batch gradient descent
 
+# Batch gradient descent
+Batch gradient descent is a type of gradient descent that update the parameters after forward and backward pass through the entire dataset. It is called “batch” gradient descent because it uses the entire dataset to compute the gradient of the loss function at each iteration. Batch gradient descent can be formulated as follows:
+$$X_{t+1}=X_t - \alpha \sum_{1}^{n}\nabla$$
+
