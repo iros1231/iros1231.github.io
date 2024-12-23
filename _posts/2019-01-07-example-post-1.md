@@ -1,10 +1,12 @@
 ---
-title: Duar N-Max
-author: Duar
+title: TF-IDF Simplified
+author: Mgs M Luthfi Ramadhan
 tags:
-  - duar
-  - medicine
-  - big data
+  - Data Science
+  - Artificial Intelligence
+  - Machine Learning
+  - NLP
+  - Data
 ---
 
 <!-- excerpt start -->
