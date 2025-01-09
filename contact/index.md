@@ -36,15 +36,7 @@ Our lab is located at Lab/Room 1231, Gedung/Building A, Fakultas Ilmu Komputer, 
   icon="fa-brands fa-youtube" 
   text="YouTube" 
   tooltip="Our lab's YouTube channel" 
-  link="LabTV-wk8hk"
-%}
-
-{% 
-  include button.html 
-  type="website" 
-  text="AI.WIKO.PW" 
-  tooltip="Our workshop series" 
-  link="https://ai.wiko.pw/"
+  link="LabTV-1231"
 %}
 
 {% 
