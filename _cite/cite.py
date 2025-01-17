@@ -28,7 +28,7 @@ log("Compiling sources")
 sources = []
 
 # in-order list of plugins to run
-plugins = ["orcid", "google-scholar", "pubmed", "sources"]
+plugins = ["google-scholar", "pubmed", "orcid", "sources"]
 
 # loop through plugins
 for plugin in plugins:
@@ -133,6 +133,7 @@ for index, source in enumerate(sources):
     # Manubot doesn't work without an id
     if _id:
         log("Using Manubot to generate citation", 1)
+        print("SOURCE: ", source)
 
         try:
             # run Manubot and set citation
