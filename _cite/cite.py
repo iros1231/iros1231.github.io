@@ -134,6 +134,7 @@ for index, source in enumerate(sources):
     if _id:
         log("Using Manubot to generate citation", 1)
         print("SOURCE: ", source)
+        print(get_safe(source, "plugin", ""))
 
         try:
             # run Manubot and set citation
