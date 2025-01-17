@@ -34,8 +34,7 @@ Our team members are actively developing artificial intelligent systems for vari
 {% include portrait.html name="Alif Wicaksana Ramadhan" image="images/members/aw.jpeg" role="researcher" description="Robotics" style="small" %}
 {% include portrait.html name="Salsabila Aurellia" image="images/members/sa.jpg" role="researcher" description="Biomedical Technology" style="small" %}
 {% include portrait.html name="Syifa Kushirayati" image="images/members/sk.jpeg" role="programmer" description="Biomedical Technology" style="small" %}
-
-[//]: # ({% include portrait.html name="Nabila Sina" image="images/members/sk.jpeg" role="programmer" description="Biomedical Technology" style="small" %})
+{% include portrait.html name="Nabila Sina" image="images/members/ns.png" role="programmer" description="Statistics" style="small" %}
 
 {% include list.html data="members" component="portrait" filters="role: researcher" %}
 {% include list.html data="members" component="portrait" filters="role: programmer" %}
