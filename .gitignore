@@ -13,4 +13,4 @@ package.json
 package-lock.json
 yarn.lock
 node_modules
-_data/citations.yaml
+#_data/citations.yaml
