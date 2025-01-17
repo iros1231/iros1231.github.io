@@ -30,8 +30,7 @@ Our team members are actively developing artificial intelligent systems for vari
 
 # Researchers and Programmers
 {% include portrait.html name="Mgs M Luthfi Ramadhan" image="images/members/patrick.jfif" role="researcher" description="Machine Learning" style="small" %}
-{% include portrait.html name="Muhammad Ali Akbar" image="images/members/na-male.png" role="researcher" description="" style="small" %}
-{% include portrait.html name="Alif Wicaksana Ramadhan" image="images/members/aw.jpeg" role="researcher" description="" style="small" %}
+{% include portrait.html name="Alif Wicaksana Ramadhan" image="images/members/aw.jpeg" role="researcher" description="Robotics" style="small" %}
 {% include portrait.html name="Salsabila Aurellia" image="images/members/sa.jpg" role="researcher" description="Biomedical Technology" style="small" %}
 {% include portrait.html name="Syifa Kushirayati" image="images/members/sk.jpeg" role="programmer" description="Biomedical Technology" style="small" %}
 
