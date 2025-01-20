@@ -46,9 +46,9 @@
 #   tags:
 #     - software
 
-- title: Path Planning for UAV Surveillance
+- title: Swarm Drone
   subtitle: Aprinaldi Jasa Mantau
-  image: images/photo.jpg
+  image: images/swarm_drone.jpg
   link: https://github.com/
   description: using metaverse environment -> AirSim
   # repo: greenelab/lab-website-template
@@ -56,9 +56,29 @@
   # tags:
   #   - software
 
-- title: Activities Recognition
+- title: Warfare Drone
   subtitle: Aprinaldi Jasa Mantau
-  image: images/photo.jpg
+  image: images/warfare_drone.webp
+  link: https://github.com/
+  description: using metaverse environment -> AirSim
+  # repo: greenelab/lab-website-template
+  group: is4robot
+  # tags:
+  #   - software
+
+- title: Surveilance Object Detection
+  subtitle: Aprinaldi Jasa Mantau
+  image: images/surveillance_object_detection.png
+  link: https://github.com/
+  description: using metaverse environment -> AirSim
+  # repo: greenelab/lab-website-template
+  group: is4robot
+  # tags:
+  #   - software
+
+- title: Reinforcement Learning
+  subtitle: Vektor Dewanto
+  image: images/rl.png
   link: https://github.com/
   description: Violence or any illegal activities
   # repo: greenelab/lab-website-template
