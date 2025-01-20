@@ -1,3 +1,11 @@
+.card-custom-description {
+  overflow: hidden; /* Hides overflow content */
+  text-overflow: ellipsis; /* Adds "..." for truncated text */
+  display: -webkit-box; /* Required for limiting lines */
+  -webkit-line-clamp: 3; /* Limits text to 3 lines */
+  -webkit-box-orient: vertical; /* Sets vertical layout for the box */
+}
+
 .card {
   display: inline-flex;
   justify-content: stretch;
