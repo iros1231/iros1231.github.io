@@ -35,7 +35,9 @@
     {% endif %}
 
     {% if include.description %}
-    <p class="card-custom-description">{{ include.description | markdownify }}</p>
+    <p class="card-custom-description">
+      {{ include.description }}
+    </p>
     {% endif %}
 
     {% if include.tags or include.repo %}
