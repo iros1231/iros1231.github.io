@@ -6,6 +6,14 @@
   -webkit-box-orient: vertical; /* Sets vertical layout for the box */
 }
 
+.custom-horizontal-line {
+  width: -webkit-fill-available; /* Use the full available width */
+  border: 0; /* Remove the default border */
+  height: 1px; /* Set the thickness of the line */
+  background-color: #ccc; /* Adjust the color as needed */
+  margin: 10px 0; /* Add spacing around the <hr> */
+}
+
 .card {
   display: inline-flex;
   justify-content: stretch;
