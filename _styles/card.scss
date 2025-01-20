@@ -5,7 +5,7 @@
   overflow: hidden;       /* Hides overflow content */
   text-overflow: ellipsis; /* Adds "..." for truncated text */
   display: -webkit-box;   /* Required for limiting lines */
-  -webkit-line-clamp: 3;  /* Limits text to 3 lines */
+  -webkit-line-clamp: 5;  /* Limits text to 3 lines */
   -webkit-box-orient: vertical; /* Sets vertical layout for the box */
 }
 
