@@ -1,12 +1,20 @@
 ---
 ---
 
-.card-custom-description{
+.card-custom-description {
   overflow: hidden;       /* Hides overflow content */
   text-overflow: ellipsis; /* Adds "..." for truncated text */
   display: -webkit-box;   /* Required for limiting lines */
   -webkit-line-clamp: 5;  /* Limits text to 3 lines */
   -webkit-box-orient: vertical; /* Sets vertical layout for the box */
+}
+
+.custom-horizontal-line {
+  width: -webkit-fill-available; /* Use the full available width */
+  border: 0; /* Remove the default border */
+  height: 1px; /* Set the thickness of the line */
+  background-color: #ccc; /* Adjust the color as needed */
+  margin: 10px 0; /* Add spacing around the <hr> */
 }
 
 .card {
