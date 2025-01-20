@@ -32,7 +32,7 @@ def main(entry):
     @cache.memoize(name=__file__, expire=1 * (60 * 60 * 24))
     def query(_id):
         params["author_id"] = _id
-        return get_safe(GoogleScholarSearchSearch(params).get_dict(), "articles", [])
+        return get_safe(GoogleScholarSearch(params).get_dict(), "articles", [])
 
     response = query(_id)
 
