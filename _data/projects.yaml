@@ -88,7 +88,7 @@
 
 - title: Emotion Recognition Based on 3D Generated Image
   subtitle: Aprinaldi Jasa Mantau
-  image: images/photo.jpg
+  image: images/emotion.png
   link: https://github.com/
   description: Using 3 cameras from Jetson Nano
   # repo: greenelab/lab-website-template
@@ -97,7 +97,77 @@
   #   - software
 
 
-- title: Biomedical Image Analysis For Clinical Purposes
+- title: Heart failure detection
+  subtitle: Muhammad Febrian Rachmadi
+  image: images/heart.jpg
+  link: https://github.com/
+  description: Biomedical Image Analysis For Clinical Purposes
+  # repo: greenelab/lab-website-template
+  group: is4biomed
+  # tags:
+  #   - software
+
+- title: Left ventricle segmentation
+  subtitle: Muhammad Febrian Rachmadi
+  image: images/lv_segmentation.gif
+  link: https://github.com/
+  description: Biomedical Image Analysis For Clinical Purposes
+  # repo: greenelab/lab-website-template
+  group: is4biomed
+  # tags:
+  #   - software
+
+- title: Ejection fraction regression
+  subtitle: Muhammad Febrian Rachmadi
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Biomedical Image Analysis For Clinical Purposes
+  # repo: greenelab/lab-website-template
+  group: is4biomed
+  # tags:
+  #   - software
+
+- title: Embryo grading
+  subtitle: Muhammad Febrian Rachmadi
+  image: images/embryo_grading.png
+  link: https://github.com/
+  description: Biomedical Image Analysis For Clinical Purposes
+  # repo: greenelab/lab-website-template
+  group: is4biomed
+  # tags:
+  #   - software
+
+- title: Brain white matter segmentation
+  subtitle: Muhammad Febrian Rachmadi
+  image: images/white_matter.jpg
+  link: https://github.com/
+  description: Biomedical Image Analysis For Clinical Purposes
+  # repo: greenelab/lab-website-template
+  group: is4biomed
+  # tags:
+  #   - software
+
+- title: Skin disease recognition
+  subtitle: Muhammad Febrian Rachmadi
+  image: images/skin_disease.png
+  link: https://github.com/
+  description: Biomedical Image Analysis For Clinical Purposes
+  # repo: greenelab/lab-website-template
+  group: is4biomed
+  # tags:
+  #   - software
+
+- title: Liver segmentation
+  subtitle: Muhammad Febrian Rachmadi
+  image: images/liver_segmentation.png
+  link: https://github.com/
+  description: Biomedical Image Analysis For Clinical Purposes
+  # repo: greenelab/lab-website-template
+  group: is4biomed
+  # tags:
+  #   - software
+
+- title: Triase decision making
   subtitle: Muhammad Febrian Rachmadi
   image: images/photo.jpg
   link: https://github.com/
