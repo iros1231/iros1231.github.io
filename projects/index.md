@@ -17,7 +17,7 @@ IRoS lab focuses on developing intelligent systems for robotics, biomedicine, an
 
 ## IS for Robotics (IS4Robotics)
 
-![Alt text](https://archive.ph/ia2xk/4a0df411d6f0b26a871865a88420758f786201ca.webp)
+![Alt text](images/swarm_drone.jpg)
 
 {% include list.html component="card" data="projects" filters="group: is4robot" style="small"  %}
 
