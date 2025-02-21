@@ -17,7 +17,7 @@ IRoS lab focuses on developing intelligent systems for robotics, biomedicine, an
 
 ## IS for Robotics (IS4Robotics)
 
-![Alt text](images/swarm_drone.jpg)
+![Alt text](https://iros.cs.ui.ac.id/images/robotic_roadmap.jpg)
 
 {% include list.html component="card" data="projects" filters="group: is4robot" style="small"  %}
 
@@ -25,11 +25,15 @@ IRoS lab focuses on developing intelligent systems for robotics, biomedicine, an
 
 ## IS for Biomedicine (IS4Biomed)
 
+![Alt text](https://iros.cs.ui.ac.id/images/medical_roadmap.jpg)
+
 {% include list.html component="card" data="projects" filters="group: is4biomed" style="small" %}
 
 {% include section.html %}
 
 ## IS for Surveilance/Remote Sensing (IS4SRS)
+
+![Alt text](https://iros.cs.ui.ac.id/images/surveillance_roadmap.jpg)
 
 {% include list.html component="card" data="projects" filters="group: is4srs" style="small" %}
 
