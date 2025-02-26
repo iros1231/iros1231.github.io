@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
 
-IRoS lab focuses on developing intelligent systems for robotics, biomedical, and surveillance. The general roadmap and track record are shown in the following page (https://iros.my.canva.site).
+IRoS lab focuses on developing intelligent systems for robotics, biomedical, and surveillance. The general roadmap and track record are shown in the following [page](https://iros.my.canva.site).
 
 <!-- {% include tags.html tags="publication, resource, website" %} -->
 
