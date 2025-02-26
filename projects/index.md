@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
 
-IRoS lab focuses on developing intelligent systems for robotics, biomedicine, and life/social sciences.
+IRoS lab focuses on developing intelligent systems for robotics, biomedical, and surveillance. The general roadmap and track record are shown in the following page (https://iros.my.canva.site).
 
 <!-- {% include tags.html tags="publication, resource, website" %} -->
 
@@ -17,7 +17,7 @@ IRoS lab focuses on developing intelligent systems for robotics, biomedicine, an
 
 ## IS for Robotics (IS4Robotics)
 
-![Alt text](https://iros.cs.ui.ac.id/images/robotic_roadmap.png)
+[//]: # (![Alt text]&#40;https://iros.cs.ui.ac.id/images/robotic_roadmap.png&#41;)
 
 {% include list.html component="card" data="projects" filters="group: is4robot" style="small"  %}
 
@@ -25,7 +25,7 @@ IRoS lab focuses on developing intelligent systems for robotics, biomedicine, an
 
 ## IS for Biomedicine (IS4Biomed)
 
-![Alt text](https://iros.cs.ui.ac.id/images/medical_roadmap.png)
+[//]: # (![Alt text]&#40;https://iros.cs.ui.ac.id/images/medical_roadmap.png&#41;)
 
 {% include list.html component="card" data="projects" filters="group: is4biomed" style="small" %}
 
@@ -33,7 +33,7 @@ IRoS lab focuses on developing intelligent systems for robotics, biomedicine, an
 
 ## IS for Surveilance/Remote Sensing (IS4SRS)
 
-![Alt text](https://iros.cs.ui.ac.id/images/surveillance_roadmap.png)
+[//]: # (![Alt text]&#40;https://iros.cs.ui.ac.id/images/surveillance_roadmap.png&#41;)
 
 {% include list.html component="card" data="projects" filters="group: is4srs" style="small" %}
 
