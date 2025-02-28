@@ -47,7 +47,7 @@
 #     - software
 
 - title: Swarm Drone
-  subtitle: Aprinaldi Jasa Mantau
+  subtitle: Ario Yudo Husodo, Aprinaldi Jasa Mantau, Grafika Jati
   image: images/swarm_drone.jpg
   link: #
   description: Explores the development and simulation of coordinated drone operations using AirSim, an advanced physics-based platform. The project focuses on designing, testing, and optimizing multi-drone behaviors for tasks such as search-and-rescue, mapping, and environmental monitoring. Leveraging AirSim's simulation capabilities, the study aims to improve swarm intelligence, path planning, and collision avoidance in dynamic and complex environments.
@@ -57,7 +57,7 @@
   #   - software
 
 - title: Warfare Drone
-  subtitle: Aprinaldi Jasa Mantau
+  subtitle: Ario Yudo Husodo, Aprinaldi Jasa Mantau
   image: images/warfare_drone.webp
   link: #
   description: Leverages the AirSim simulation tool to design and evaluate autonomous drones for modern battlefield scenarios. This project focuses on developing advanced strategies for reconnaissance, target tracking, and tactical engagement using AI-driven decision-making. By simulating combat environments, the study aims to refine algorithms for precision strikes, swarm coordination, and obstacle navigation under diverse terrain and adversarial conditions, contributing to the next generation of autonomous defense technologies.
@@ -67,7 +67,7 @@
   #   - software
 
 - title: Surveilance Object Detection
-  subtitle: Aprinaldi Jasa Mantau
+  subtitle: Grafika Jati, Aprinaldi Jasa Mantau, Ario Yudo Husodo
   image: images/surveillance_object_detection.png
   link: #
   description: Focuses on developing advanced drone-based object detection systems for real-time surveillance applications. This project emphasizes the use of cutting-edge computer vision and machine learning techniques to identify, classify, and track objects in diverse environments. By utilizing real-world data and hardware testing, the research aims to enhance the precision and reliability of surveillance systems, catering to applications such as security monitoring, traffic analysis, and disaster management.
@@ -77,7 +77,7 @@
   #   - software
 
 - title: Reinforcement Learning
-  subtitle: Vektor Dewanto
+  subtitle: Vektor Dewanto, Aprinaldi Jasa Mantau
   image: images/rl.png
   link: #
   description: Investigates the development and application of reinforcement learning algorithms to solve complex decision-making problems across diverse domains. This project focuses on designing and optimizing RL models for tasks such as autonomous control, resource allocation, game strategies, and robotics. By leveraging advanced computational techniques, the research aims to enhance the scalability, adaptability, and efficiency of RL, contributing to breakthroughs in fields such as artificial intelligence, automation, and real-world problem-solving.
