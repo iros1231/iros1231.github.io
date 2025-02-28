@@ -6,7 +6,10 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Research Projects
+<a href="https://iros.my.canva.site/">
 ![Alt text](https://iros.cs.ui.ac.id/images/roadmap.png)
+</a>
+
 
 IRoS lab focuses on developing intelligent systems for robotics, biomedical, and surveillance. The general roadmap and track record are shown in the following [page](https://iros.my.canva.site).
 
